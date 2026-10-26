@@ -1,0 +1,2881 @@
+format,hhmm,text
+h12,0000,It's midnight.
+h12,0001,It's twelve oh one A.M.
+h12,0002,It's twelve oh two A.M.
+h12,0003,It's twelve oh three A.M.
+h12,0004,It's twelve oh four A.M.
+h12,0005,It's twelve oh five A.M.
+h12,0006,It's twelve oh six A.M.
+h12,0007,It's twelve oh seven A.M.
+h12,0008,It's twelve oh eight A.M.
+h12,0009,It's twelve oh nine A.M.
+h12,0010,It's twelve ten A.M.
+h12,0011,It's twelve eleven A.M.
+h12,0012,It's twelve twelve A.M.
+h12,0013,It's twelve thirteen A.M.
+h12,0014,It's twelve fourteen A.M.
+h12,0015,It's twelve fifteen A.M.
+h12,0016,It's twelve sixteen A.M.
+h12,0017,It's twelve seventeen A.M.
+h12,0018,It's twelve eighteen A.M.
+h12,0019,It's twelve nineteen A.M.
+h12,0020,It's twelve twenty A.M.
+h12,0021,It's twelve twenty-one A.M.
+h12,0022,It's twelve twenty-two A.M.
+h12,0023,It's twelve twenty-three A.M.
+h12,0024,It's twelve twenty-four A.M.
+h12,0025,It's twelve twenty-five A.M.
+h12,0026,It's twelve twenty-six A.M.
+h12,0027,It's twelve twenty-seven A.M.
+h12,0028,It's twelve twenty-eight A.M.
+h12,0029,It's twelve twenty-nine A.M.
+h12,0030,It's twelve thirty A.M.
+h12,0031,It's twelve thirty-one A.M.
+h12,0032,It's twelve thirty-two A.M.
+h12,0033,It's twelve thirty-three A.M.
+h12,0034,It's twelve thirty-four A.M.
+h12,0035,It's twelve thirty-five A.M.
+h12,0036,It's twelve thirty-six A.M.
+h12,0037,It's twelve thirty-seven A.M.
+h12,0038,It's twelve thirty-eight A.M.
+h12,0039,It's twelve thirty-nine A.M.
+h12,0040,It's twelve forty A.M.
+h12,0041,It's twelve forty-one A.M.
+h12,0042,It's twelve forty-two A.M.
+h12,0043,It's twelve forty-three A.M.
+h12,0044,It's twelve forty-four A.M.
+h12,0045,It's twelve forty-five A.M.
+h12,0046,It's twelve forty-six A.M.
+h12,0047,It's twelve forty-seven A.M.
+h12,0048,It's twelve forty-eight A.M.
+h12,0049,It's twelve forty-nine A.M.
+h12,0050,It's twelve fifty A.M.
+h12,0051,It's twelve fifty-one A.M.
+h12,0052,It's twelve fifty-two A.M.
+h12,0053,It's twelve fifty-three A.M.
+h12,0054,It's twelve fifty-four A.M.
+h12,0055,It's twelve fifty-five A.M.
+h12,0056,It's twelve fifty-six A.M.
+h12,0057,It's twelve fifty-seven A.M.
+h12,0058,It's twelve fifty-eight A.M.
+h12,0059,It's twelve fifty-nine A.M.
+h12,0100,It's one o'clock A.M.
+h12,0101,It's one oh one A.M.
+h12,0102,It's one oh two A.M.
+h12,0103,It's one oh three A.M.
+h12,0104,It's one oh four A.M.
+h12,0105,It's one oh five A.M.
+h12,0106,It's one oh six A.M.
+h12,0107,It's one oh seven A.M.
+h12,0108,It's one oh eight A.M.
+h12,0109,It's one oh nine A.M.
+h12,0110,It's one ten A.M.
+h12,0111,It's one eleven A.M.
+h12,0112,It's one twelve A.M.
+h12,0113,It's one thirteen A.M.
+h12,0114,It's one fourteen A.M.
+h12,0115,It's one fifteen A.M.
+h12,0116,It's one sixteen A.M.
+h12,0117,It's one seventeen A.M.
+h12,0118,It's one eighteen A.M.
+h12,0119,It's one nineteen A.M.
+h12,0120,It's one twenty A.M.
+h12,0121,It's one twenty-one A.M.
+h12,0122,It's one twenty-two A.M.
+h12,0123,It's one twenty-three A.M.
+h12,0124,It's one twenty-four A.M.
+h12,0125,It's one twenty-five A.M.
+h12,0126,It's one twenty-six A.M.
+h12,0127,It's one twenty-seven A.M.
+h12,0128,It's one twenty-eight A.M.
+h12,0129,It's one twenty-nine A.M.
+h12,0130,It's one thirty A.M.
+h12,0131,It's one thirty-one A.M.
+h12,0132,It's one thirty-two A.M.
+h12,0133,It's one thirty-three A.M.
+h12,0134,It's one thirty-four A.M.
+h12,0135,It's one thirty-five A.M.
+h12,0136,It's one thirty-six A.M.
+h12,0137,It's one thirty-seven A.M.
+h12,0138,It's one thirty-eight A.M.
+h12,0139,It's one thirty-nine A.M.
+h12,0140,It's one forty A.M.
+h12,0141,It's one forty-one A.M.
+h12,0142,It's one forty-two A.M.
+h12,0143,It's one forty-three A.M.
+h12,0144,It's one forty-four A.M.
+h12,0145,It's one forty-five A.M.
+h12,0146,It's one forty-six A.M.
+h12,0147,It's one forty-seven A.M.
+h12,0148,It's one forty-eight A.M.
+h12,0149,It's one forty-nine A.M.
+h12,0150,It's one fifty A.M.
+h12,0151,It's one fifty-one A.M.
+h12,0152,It's one fifty-two A.M.
+h12,0153,It's one fifty-three A.M.
+h12,0154,It's one fifty-four A.M.
+h12,0155,It's one fifty-five A.M.
+h12,0156,It's one fifty-six A.M.
+h12,0157,It's one fifty-seven A.M.
+h12,0158,It's one fifty-eight A.M.
+h12,0159,It's one fifty-nine A.M.
+h12,0200,It's two o'clock A.M.
+h12,0201,It's two oh one A.M.
+h12,0202,It's two oh two A.M.
+h12,0203,It's two oh three A.M.
+h12,0204,It's two oh four A.M.
+h12,0205,It's two oh five A.M.
+h12,0206,It's two oh six A.M.
+h12,0207,It's two oh seven A.M.
+h12,0208,It's two oh eight A.M.
+h12,0209,It's two oh nine A.M.
+h12,0210,It's two ten A.M.
+h12,0211,It's two eleven A.M.
+h12,0212,It's two twelve A.M.
+h12,0213,It's two thirteen A.M.
+h12,0214,It's two fourteen A.M.
+h12,0215,It's two fifteen A.M.
+h12,0216,It's two sixteen A.M.
+h12,0217,It's two seventeen A.M.
+h12,0218,It's two eighteen A.M.
+h12,0219,It's two nineteen A.M.
+h12,0220,It's two twenty A.M.
+h12,0221,It's two twenty-one A.M.
+h12,0222,It's two twenty-two A.M.
+h12,0223,It's two twenty-three A.M.
+h12,0224,It's two twenty-four A.M.
+h12,0225,It's two twenty-five A.M.
+h12,0226,It's two twenty-six A.M.
+h12,0227,It's two twenty-seven A.M.
+h12,0228,It's two twenty-eight A.M.
+h12,0229,It's two twenty-nine A.M.
+h12,0230,It's two thirty A.M.
+h12,0231,It's two thirty-one A.M.
+h12,0232,It's two thirty-two A.M.
+h12,0233,It's two thirty-three A.M.
+h12,0234,It's two thirty-four A.M.
+h12,0235,It's two thirty-five A.M.
+h12,0236,It's two thirty-six A.M.
+h12,0237,It's two thirty-seven A.M.
+h12,0238,It's two thirty-eight A.M.
+h12,0239,It's two thirty-nine A.M.
+h12,0240,It's two forty A.M.
+h12,0241,It's two forty-one A.M.
+h12,0242,It's two forty-two A.M.
+h12,0243,It's two forty-three A.M.
+h12,0244,It's two forty-four A.M.
+h12,0245,It's two forty-five A.M.
+h12,0246,It's two forty-six A.M.
+h12,0247,It's two forty-seven A.M.
+h12,0248,It's two forty-eight A.M.
+h12,0249,It's two forty-nine A.M.
+h12,0250,It's two fifty A.M.
+h12,0251,It's two fifty-one A.M.
+h12,0252,It's two fifty-two A.M.
+h12,0253,It's two fifty-three A.M.
+h12,0254,It's two fifty-four A.M.
+h12,0255,It's two fifty-five A.M.
+h12,0256,It's two fifty-six A.M.
+h12,0257,It's two fifty-seven A.M.
+h12,0258,It's two fifty-eight A.M.
+h12,0259,It's two fifty-nine A.M.
+h12,0300,It's three o'clock A.M.
+h12,0301,It's three oh one A.M.
+h12,0302,It's three oh two A.M.
+h12,0303,It's three oh three A.M.
+h12,0304,It's three oh four A.M.
+h12,0305,It's three oh five A.M.
+h12,0306,It's three oh six A.M.
+h12,0307,It's three oh seven A.M.
+h12,0308,It's three oh eight A.M.
+h12,0309,It's three oh nine A.M.
+h12,0310,It's three ten A.M.
+h12,0311,It's three eleven A.M.
+h12,0312,It's three twelve A.M.
+h12,0313,It's three thirteen A.M.
+h12,0314,It's three fourteen A.M.
+h12,0315,It's three fifteen A.M.
+h12,0316,It's three sixteen A.M.
+h12,0317,It's three seventeen A.M.
+h12,0318,It's three eighteen A.M.
+h12,0319,It's three nineteen A.M.
+h12,0320,It's three twenty A.M.
+h12,0321,It's three twenty-one A.M.
+h12,0322,It's three twenty-two A.M.
+h12,0323,It's three twenty-three A.M.
+h12,0324,It's three twenty-four A.M.
+h12,0325,It's three twenty-five A.M.
+h12,0326,It's three twenty-six A.M.
+h12,0327,It's three twenty-seven A.M.
+h12,0328,It's three twenty-eight A.M.
+h12,0329,It's three twenty-nine A.M.
+h12,0330,It's three thirty A.M.
+h12,0331,It's three thirty-one A.M.
+h12,0332,It's three thirty-two A.M.
+h12,0333,It's three thirty-three A.M.
+h12,0334,It's three thirty-four A.M.
+h12,0335,It's three thirty-five A.M.
+h12,0336,It's three thirty-six A.M.
+h12,0337,It's three thirty-seven A.M.
+h12,0338,It's three thirty-eight A.M.
+h12,0339,It's three thirty-nine A.M.
+h12,0340,It's three forty A.M.
+h12,0341,It's three forty-one A.M.
+h12,0342,It's three forty-two A.M.
+h12,0343,It's three forty-three A.M.
+h12,0344,It's three forty-four A.M.
+h12,0345,It's three forty-five A.M.
+h12,0346,It's three forty-six A.M.
+h12,0347,It's three forty-seven A.M.
+h12,0348,It's three forty-eight A.M.
+h12,0349,It's three forty-nine A.M.
+h12,0350,It's three fifty A.M.
+h12,0351,It's three fifty-one A.M.
+h12,0352,It's three fifty-two A.M.
+h12,0353,It's three fifty-three A.M.
+h12,0354,It's three fifty-four A.M.
+h12,0355,It's three fifty-five A.M.
+h12,0356,It's three fifty-six A.M.
+h12,0357,It's three fifty-seven A.M.
+h12,0358,It's three fifty-eight A.M.
+h12,0359,It's three fifty-nine A.M.
+h12,0400,It's four o'clock A.M.
+h12,0401,It's four oh one A.M.
+h12,0402,It's four oh two A.M.
+h12,0403,It's four oh three A.M.
+h12,0404,It's four oh four A.M.
+h12,0405,It's four oh five A.M.
+h12,0406,It's four oh six A.M.
+h12,0407,It's four oh seven A.M.
+h12,0408,It's four oh eight A.M.
+h12,0409,It's four oh nine A.M.
+h12,0410,It's four ten A.M.
+h12,0411,It's four eleven A.M.
+h12,0412,It's four twelve A.M.
+h12,0413,It's four thirteen A.M.
+h12,0414,It's four fourteen A.M.
+h12,0415,It's four fifteen A.M.
+h12,0416,It's four sixteen A.M.
+h12,0417,It's four seventeen A.M.
+h12,0418,It's four eighteen A.M.
+h12,0419,It's four nineteen A.M.
+h12,0420,It's four twenty A.M.
+h12,0421,It's four twenty-one A.M.
+h12,0422,It's four twenty-two A.M.
+h12,0423,It's four twenty-three A.M.
+h12,0424,It's four twenty-four A.M.
+h12,0425,It's four twenty-five A.M.
+h12,0426,It's four twenty-six A.M.
+h12,0427,It's four twenty-seven A.M.
+h12,0428,It's four twenty-eight A.M.
+h12,0429,It's four twenty-nine A.M.
+h12,0430,It's four thirty A.M.
+h12,0431,It's four thirty-one A.M.
+h12,0432,It's four thirty-two A.M.
+h12,0433,It's four thirty-three A.M.
+h12,0434,It's four thirty-four A.M.
+h12,0435,It's four thirty-five A.M.
+h12,0436,It's four thirty-six A.M.
+h12,0437,It's four thirty-seven A.M.
+h12,0438,It's four thirty-eight A.M.
+h12,0439,It's four thirty-nine A.M.
+h12,0440,It's four forty A.M.
+h12,0441,It's four forty-one A.M.
+h12,0442,It's four forty-two A.M.
+h12,0443,It's four forty-three A.M.
+h12,0444,It's four forty-four A.M.
+h12,0445,It's four forty-five A.M.
+h12,0446,It's four forty-six A.M.
+h12,0447,It's four forty-seven A.M.
+h12,0448,It's four forty-eight A.M.
+h12,0449,It's four forty-nine A.M.
+h12,0450,It's four fifty A.M.
+h12,0451,It's four fifty-one A.M.
+h12,0452,It's four fifty-two A.M.
+h12,0453,It's four fifty-three A.M.
+h12,0454,It's four fifty-four A.M.
+h12,0455,It's four fifty-five A.M.
+h12,0456,It's four fifty-six A.M.
+h12,0457,It's four fifty-seven A.M.
+h12,0458,It's four fifty-eight A.M.
+h12,0459,It's four fifty-nine A.M.
+h12,0500,It's five o'clock A.M.
+h12,0501,It's five oh one A.M.
+h12,0502,It's five oh two A.M.
+h12,0503,It's five oh three A.M.
+h12,0504,It's five oh four A.M.
+h12,0505,It's five oh five A.M.
+h12,0506,It's five oh six A.M.
+h12,0507,It's five oh seven A.M.
+h12,0508,It's five oh eight A.M.
+h12,0509,It's five oh nine A.M.
+h12,0510,It's five ten A.M.
+h12,0511,It's five eleven A.M.
+h12,0512,It's five twelve A.M.
+h12,0513,It's five thirteen A.M.
+h12,0514,It's five fourteen A.M.
+h12,0515,It's five fifteen A.M.
+h12,0516,It's five sixteen A.M.
+h12,0517,It's five seventeen A.M.
+h12,0518,It's five eighteen A.M.
+h12,0519,It's five nineteen A.M.
+h12,0520,It's five twenty A.M.
+h12,0521,It's five twenty-one A.M.
+h12,0522,It's five twenty-two A.M.
+h12,0523,It's five twenty-three A.M.
+h12,0524,It's five twenty-four A.M.
+h12,0525,It's five twenty-five A.M.
+h12,0526,It's five twenty-six A.M.
+h12,0527,It's five twenty-seven A.M.
+h12,0528,It's five twenty-eight A.M.
+h12,0529,It's five twenty-nine A.M.
+h12,0530,It's five thirty A.M.
+h12,0531,It's five thirty-one A.M.
+h12,0532,It's five thirty-two A.M.
+h12,0533,It's five thirty-three A.M.
+h12,0534,It's five thirty-four A.M.
+h12,0535,It's five thirty-five A.M.
+h12,0536,It's five thirty-six A.M.
+h12,0537,It's five thirty-seven A.M.
+h12,0538,It's five thirty-eight A.M.
+h12,0539,It's five thirty-nine A.M.
+h12,0540,It's five forty A.M.
+h12,0541,It's five forty-one A.M.
+h12,0542,It's five forty-two A.M.
+h12,0543,It's five forty-three A.M.
+h12,0544,It's five forty-four A.M.
+h12,0545,It's five forty-five A.M.
+h12,0546,It's five forty-six A.M.
+h12,0547,It's five forty-seven A.M.
+h12,0548,It's five forty-eight A.M.
+h12,0549,It's five forty-nine A.M.
+h12,0550,It's five fifty A.M.
+h12,0551,It's five fifty-one A.M.
+h12,0552,It's five fifty-two A.M.
+h12,0553,It's five fifty-three A.M.
+h12,0554,It's five fifty-four A.M.
+h12,0555,It's five fifty-five A.M.
+h12,0556,It's five fifty-six A.M.
+h12,0557,It's five fifty-seven A.M.
+h12,0558,It's five fifty-eight A.M.
+h12,0559,It's five fifty-nine A.M.
+h12,0600,It's six o'clock A.M.
+h12,0601,It's six oh one A.M.
+h12,0602,It's six oh two A.M.
+h12,0603,It's six oh three A.M.
+h12,0604,It's six oh four A.M.
+h12,0605,It's six oh five A.M.
+h12,0606,It's six oh six A.M.
+h12,0607,It's six oh seven A.M.
+h12,0608,It's six oh eight A.M.
+h12,0609,It's six oh nine A.M.
+h12,0610,It's six ten A.M.
+h12,0611,It's six eleven A.M.
+h12,0612,It's six twelve A.M.
+h12,0613,It's six thirteen A.M.
+h12,0614,It's six fourteen A.M.
+h12,0615,It's six fifteen A.M.
+h12,0616,It's six sixteen A.M.
+h12,0617,It's six seventeen A.M.
+h12,0618,It's six eighteen A.M.
+h12,0619,It's six nineteen A.M.
+h12,0620,It's six twenty A.M.
+h12,0621,It's six twenty-one A.M.
+h12,0622,It's six twenty-two A.M.
+h12,0623,It's six twenty-three A.M.
+h12,0624,It's six twenty-four A.M.
+h12,0625,It's six twenty-five A.M.
+h12,0626,It's six twenty-six A.M.
+h12,0627,It's six twenty-seven A.M.
+h12,0628,It's six twenty-eight A.M.
+h12,0629,It's six twenty-nine A.M.
+h12,0630,It's six thirty A.M.
+h12,0631,It's six thirty-one A.M.
+h12,0632,It's six thirty-two A.M.
+h12,0633,It's six thirty-three A.M.
+h12,0634,It's six thirty-four A.M.
+h12,0635,It's six thirty-five A.M.
+h12,0636,It's six thirty-six A.M.
+h12,0637,It's six thirty-seven A.M.
+h12,0638,It's six thirty-eight A.M.
+h12,0639,It's six thirty-nine A.M.
+h12,0640,It's six forty A.M.
+h12,0641,It's six forty-one A.M.
+h12,0642,It's six forty-two A.M.
+h12,0643,It's six forty-three A.M.
+h12,0644,It's six forty-four A.M.
+h12,0645,It's six forty-five A.M.
+h12,0646,It's six forty-six A.M.
+h12,0647,It's six forty-seven A.M.
+h12,0648,It's six forty-eight A.M.
+h12,0649,It's six forty-nine A.M.
+h12,0650,It's six fifty A.M.
+h12,0651,It's six fifty-one A.M.
+h12,0652,It's six fifty-two A.M.
+h12,0653,It's six fifty-three A.M.
+h12,0654,It's six fifty-four A.M.
+h12,0655,It's six fifty-five A.M.
+h12,0656,It's six fifty-six A.M.
+h12,0657,It's six fifty-seven A.M.
+h12,0658,It's six fifty-eight A.M.
+h12,0659,It's six fifty-nine A.M.
+h12,0700,It's seven o'clock A.M.
+h12,0701,It's seven oh one A.M.
+h12,0702,It's seven oh two A.M.
+h12,0703,It's seven oh three A.M.
+h12,0704,It's seven oh four A.M.
+h12,0705,It's seven oh five A.M.
+h12,0706,It's seven oh six A.M.
+h12,0707,It's seven oh seven A.M.
+h12,0708,It's seven oh eight A.M.
+h12,0709,It's seven oh nine A.M.
+h12,0710,It's seven ten A.M.
+h12,0711,It's seven eleven A.M.
+h12,0712,It's seven twelve A.M.
+h12,0713,It's seven thirteen A.M.
+h12,0714,It's seven fourteen A.M.
+h12,0715,It's seven fifteen A.M.
+h12,0716,It's seven sixteen A.M.
+h12,0717,It's seven seventeen A.M.
+h12,0718,It's seven eighteen A.M.
+h12,0719,It's seven nineteen A.M.
+h12,0720,It's seven twenty A.M.
+h12,0721,It's seven twenty-one A.M.
+h12,0722,It's seven twenty-two A.M.
+h12,0723,It's seven twenty-three A.M.
+h12,0724,It's seven twenty-four A.M.
+h12,0725,It's seven twenty-five A.M.
+h12,0726,It's seven twenty-six A.M.
+h12,0727,It's seven twenty-seven A.M.
+h12,0728,It's seven twenty-eight A.M.
+h12,0729,It's seven twenty-nine A.M.
+h12,0730,It's seven thirty A.M.
+h12,0731,It's seven thirty-one A.M.
+h12,0732,It's seven thirty-two A.M.
+h12,0733,It's seven thirty-three A.M.
+h12,0734,It's seven thirty-four A.M.
+h12,0735,It's seven thirty-five A.M.
+h12,0736,It's seven thirty-six A.M.
+h12,0737,It's seven thirty-seven A.M.
+h12,0738,It's seven thirty-eight A.M.
+h12,0739,It's seven thirty-nine A.M.
+h12,0740,It's seven forty A.M.
+h12,0741,It's seven forty-one A.M.
+h12,0742,It's seven forty-two A.M.
+h12,0743,It's seven forty-three A.M.
+h12,0744,It's seven forty-four A.M.
+h12,0745,It's seven forty-five A.M.
+h12,0746,It's seven forty-six A.M.
+h12,0747,It's seven forty-seven A.M.
+h12,0748,It's seven forty-eight A.M.
+h12,0749,It's seven forty-nine A.M.
+h12,0750,It's seven fifty A.M.
+h12,0751,It's seven fifty-one A.M.
+h12,0752,It's seven fifty-two A.M.
+h12,0753,It's seven fifty-three A.M.
+h12,0754,It's seven fifty-four A.M.
+h12,0755,It's seven fifty-five A.M.
+h12,0756,It's seven fifty-six A.M.
+h12,0757,It's seven fifty-seven A.M.
+h12,0758,It's seven fifty-eight A.M.
+h12,0759,It's seven fifty-nine A.M.
+h12,0800,It's eight o'clock A.M.
+h12,0801,It's eight oh one A.M.
+h12,0802,It's eight oh two A.M.
+h12,0803,It's eight oh three A.M.
+h12,0804,It's eight oh four A.M.
+h12,0805,It's eight oh five A.M.
+h12,0806,It's eight oh six A.M.
+h12,0807,It's eight oh seven A.M.
+h12,0808,It's eight oh eight A.M.
+h12,0809,It's eight oh nine A.M.
+h12,0810,It's eight ten A.M.
+h12,0811,It's eight eleven A.M.
+h12,0812,It's eight twelve A.M.
+h12,0813,It's eight thirteen A.M.
+h12,0814,It's eight fourteen A.M.
+h12,0815,It's eight fifteen A.M.
+h12,0816,It's eight sixteen A.M.
+h12,0817,It's eight seventeen A.M.
+h12,0818,It's eight eighteen A.M.
+h12,0819,It's eight nineteen A.M.
+h12,0820,It's eight twenty A.M.
+h12,0821,It's eight twenty-one A.M.
+h12,0822,It's eight twenty-two A.M.
+h12,0823,It's eight twenty-three A.M.
+h12,0824,It's eight twenty-four A.M.
+h12,0825,It's eight twenty-five A.M.
+h12,0826,It's eight twenty-six A.M.
+h12,0827,It's eight twenty-seven A.M.
+h12,0828,It's eight twenty-eight A.M.
+h12,0829,It's eight twenty-nine A.M.
+h12,0830,It's eight thirty A.M.
+h12,0831,It's eight thirty-one A.M.
+h12,0832,It's eight thirty-two A.M.
+h12,0833,It's eight thirty-three A.M.
+h12,0834,It's eight thirty-four A.M.
+h12,0835,It's eight thirty-five A.M.
+h12,0836,It's eight thirty-six A.M.
+h12,0837,It's eight thirty-seven A.M.
+h12,0838,It's eight thirty-eight A.M.
+h12,0839,It's eight thirty-nine A.M.
+h12,0840,It's eight forty A.M.
+h12,0841,It's eight forty-one A.M.
+h12,0842,It's eight forty-two A.M.
+h12,0843,It's eight forty-three A.M.
+h12,0844,It's eight forty-four A.M.
+h12,0845,It's eight forty-five A.M.
+h12,0846,It's eight forty-six A.M.
+h12,0847,It's eight forty-seven A.M.
+h12,0848,It's eight forty-eight A.M.
+h12,0849,It's eight forty-nine A.M.
+h12,0850,It's eight fifty A.M.
+h12,0851,It's eight fifty-one A.M.
+h12,0852,It's eight fifty-two A.M.
+h12,0853,It's eight fifty-three A.M.
+h12,0854,It's eight fifty-four A.M.
+h12,0855,It's eight fifty-five A.M.
+h12,0856,It's eight fifty-six A.M.
+h12,0857,It's eight fifty-seven A.M.
+h12,0858,It's eight fifty-eight A.M.
+h12,0859,It's eight fifty-nine A.M.
+h12,0900,It's nine o'clock A.M.
+h12,0901,It's nine oh one A.M.
+h12,0902,It's nine oh two A.M.
+h12,0903,It's nine oh three A.M.
+h12,0904,It's nine oh four A.M.
+h12,0905,It's nine oh five A.M.
+h12,0906,It's nine oh six A.M.
+h12,0907,It's nine oh seven A.M.
+h12,0908,It's nine oh eight A.M.
+h12,0909,It's nine oh nine A.M.
+h12,0910,It's nine ten A.M.
+h12,0911,It's nine eleven A.M.
+h12,0912,It's nine twelve A.M.
+h12,0913,It's nine thirteen A.M.
+h12,0914,It's nine fourteen A.M.
+h12,0915,It's nine fifteen A.M.
+h12,0916,It's nine sixteen A.M.
+h12,0917,It's nine seventeen A.M.
+h12,0918,It's nine eighteen A.M.
+h12,0919,It's nine nineteen A.M.
+h12,0920,It's nine twenty A.M.
+h12,0921,It's nine twenty-one A.M.
+h12,0922,It's nine twenty-two A.M.
+h12,0923,It's nine twenty-three A.M.
+h12,0924,It's nine twenty-four A.M.
+h12,0925,It's nine twenty-five A.M.
+h12,0926,It's nine twenty-six A.M.
+h12,0927,It's nine twenty-seven A.M.
+h12,0928,It's nine twenty-eight A.M.
+h12,0929,It's nine twenty-nine A.M.
+h12,0930,It's nine thirty A.M.
+h12,0931,It's nine thirty-one A.M.
+h12,0932,It's nine thirty-two A.M.
+h12,0933,It's nine thirty-three A.M.
+h12,0934,It's nine thirty-four A.M.
+h12,0935,It's nine thirty-five A.M.
+h12,0936,It's nine thirty-six A.M.
+h12,0937,It's nine thirty-seven A.M.
+h12,0938,It's nine thirty-eight A.M.
+h12,0939,It's nine thirty-nine A.M.
+h12,0940,It's nine forty A.M.
+h12,0941,It's nine forty-one A.M.
+h12,0942,It's nine forty-two A.M.
+h12,0943,It's nine forty-three A.M.
+h12,0944,It's nine forty-four A.M.
+h12,0945,It's nine forty-five A.M.
+h12,0946,It's nine forty-six A.M.
+h12,0947,It's nine forty-seven A.M.
+h12,0948,It's nine forty-eight A.M.
+h12,0949,It's nine forty-nine A.M.
+h12,0950,It's nine fifty A.M.
+h12,0951,It's nine fifty-one A.M.
+h12,0952,It's nine fifty-two A.M.
+h12,0953,It's nine fifty-three A.M.
+h12,0954,It's nine fifty-four A.M.
+h12,0955,It's nine fifty-five A.M.
+h12,0956,It's nine fifty-six A.M.
+h12,0957,It's nine fifty-seven A.M.
+h12,0958,It's nine fifty-eight A.M.
+h12,0959,It's nine fifty-nine A.M.
+h12,1000,It's ten o'clock A.M.
+h12,1001,It's ten oh one A.M.
+h12,1002,It's ten oh two A.M.
+h12,1003,It's ten oh three A.M.
+h12,1004,It's ten oh four A.M.
+h12,1005,It's ten oh five A.M.
+h12,1006,It's ten oh six A.M.
+h12,1007,It's ten oh seven A.M.
+h12,1008,It's ten oh eight A.M.
+h12,1009,It's ten oh nine A.M.
+h12,1010,It's ten ten A.M.
+h12,1011,It's ten eleven A.M.
+h12,1012,It's ten twelve A.M.
+h12,1013,It's ten thirteen A.M.
+h12,1014,It's ten fourteen A.M.
+h12,1015,It's ten fifteen A.M.
+h12,1016,It's ten sixteen A.M.
+h12,1017,It's ten seventeen A.M.
+h12,1018,It's ten eighteen A.M.
+h12,1019,It's ten nineteen A.M.
+h12,1020,It's ten twenty A.M.
+h12,1021,It's ten twenty-one A.M.
+h12,1022,It's ten twenty-two A.M.
+h12,1023,It's ten twenty-three A.M.
+h12,1024,It's ten twenty-four A.M.
+h12,1025,It's ten twenty-five A.M.
+h12,1026,It's ten twenty-six A.M.
+h12,1027,It's ten twenty-seven A.M.
+h12,1028,It's ten twenty-eight A.M.
+h12,1029,It's ten twenty-nine A.M.
+h12,1030,It's ten thirty A.M.
+h12,1031,It's ten thirty-one A.M.
+h12,1032,It's ten thirty-two A.M.
+h12,1033,It's ten thirty-three A.M.
+h12,1034,It's ten thirty-four A.M.
+h12,1035,It's ten thirty-five A.M.
+h12,1036,It's ten thirty-six A.M.
+h12,1037,It's ten thirty-seven A.M.
+h12,1038,It's ten thirty-eight A.M.
+h12,1039,It's ten thirty-nine A.M.
+h12,1040,It's ten forty A.M.
+h12,1041,It's ten forty-one A.M.
+h12,1042,It's ten forty-two A.M.
+h12,1043,It's ten forty-three A.M.
+h12,1044,It's ten forty-four A.M.
+h12,1045,It's ten forty-five A.M.
+h12,1046,It's ten forty-six A.M.
+h12,1047,It's ten forty-seven A.M.
+h12,1048,It's ten forty-eight A.M.
+h12,1049,It's ten forty-nine A.M.
+h12,1050,It's ten fifty A.M.
+h12,1051,It's ten fifty-one A.M.
+h12,1052,It's ten fifty-two A.M.
+h12,1053,It's ten fifty-three A.M.
+h12,1054,It's ten fifty-four A.M.
+h12,1055,It's ten fifty-five A.M.
+h12,1056,It's ten fifty-six A.M.
+h12,1057,It's ten fifty-seven A.M.
+h12,1058,It's ten fifty-eight A.M.
+h12,1059,It's ten fifty-nine A.M.
+h12,1100,It's eleven o'clock A.M.
+h12,1101,It's eleven oh one A.M.
+h12,1102,It's eleven oh two A.M.
+h12,1103,It's eleven oh three A.M.
+h12,1104,It's eleven oh four A.M.
+h12,1105,It's eleven oh five A.M.
+h12,1106,It's eleven oh six A.M.
+h12,1107,It's eleven oh seven A.M.
+h12,1108,It's eleven oh eight A.M.
+h12,1109,It's eleven oh nine A.M.
+h12,1110,It's eleven ten A.M.
+h12,1111,It's eleven eleven A.M.
+h12,1112,It's eleven twelve A.M.
+h12,1113,It's eleven thirteen A.M.
+h12,1114,It's eleven fourteen A.M.
+h12,1115,It's eleven fifteen A.M.
+h12,1116,It's eleven sixteen A.M.
+h12,1117,It's eleven seventeen A.M.
+h12,1118,It's eleven eighteen A.M.
+h12,1119,It's eleven nineteen A.M.
+h12,1120,It's eleven twenty A.M.
+h12,1121,It's eleven twenty-one A.M.
+h12,1122,It's eleven twenty-two A.M.
+h12,1123,It's eleven twenty-three A.M.
+h12,1124,It's eleven twenty-four A.M.
+h12,1125,It's eleven twenty-five A.M.
+h12,1126,It's eleven twenty-six A.M.
+h12,1127,It's eleven twenty-seven A.M.
+h12,1128,It's eleven twenty-eight A.M.
+h12,1129,It's eleven twenty-nine A.M.
+h12,1130,It's eleven thirty A.M.
+h12,1131,It's eleven thirty-one A.M.
+h12,1132,It's eleven thirty-two A.M.
+h12,1133,It's eleven thirty-three A.M.
+h12,1134,It's eleven thirty-four A.M.
+h12,1135,It's eleven thirty-five A.M.
+h12,1136,It's eleven thirty-six A.M.
+h12,1137,It's eleven thirty-seven A.M.
+h12,1138,It's eleven thirty-eight A.M.
+h12,1139,It's eleven thirty-nine A.M.
+h12,1140,It's eleven forty A.M.
+h12,1141,It's eleven forty-one A.M.
+h12,1142,It's eleven forty-two A.M.
+h12,1143,It's eleven forty-three A.M.
+h12,1144,It's eleven forty-four A.M.
+h12,1145,It's eleven forty-five A.M.
+h12,1146,It's eleven forty-six A.M.
+h12,1147,It's eleven forty-seven A.M.
+h12,1148,It's eleven forty-eight A.M.
+h12,1149,It's eleven forty-nine A.M.
+h12,1150,It's eleven fifty A.M.
+h12,1151,It's eleven fifty-one A.M.
+h12,1152,It's eleven fifty-two A.M.
+h12,1153,It's eleven fifty-three A.M.
+h12,1154,It's eleven fifty-four A.M.
+h12,1155,It's eleven fifty-five A.M.
+h12,1156,It's eleven fifty-six A.M.
+h12,1157,It's eleven fifty-seven A.M.
+h12,1158,It's eleven fifty-eight A.M.
+h12,1159,It's eleven fifty-nine A.M.
+h12,1200,It's twelve noon.
+h12,1201,It's twelve oh one P.M.
+h12,1202,It's twelve oh two P.M.
+h12,1203,It's twelve oh three P.M.
+h12,1204,It's twelve oh four P.M.
+h12,1205,It's twelve oh five P.M.
+h12,1206,It's twelve oh six P.M.
+h12,1207,It's twelve oh seven P.M.
+h12,1208,It's twelve oh eight P.M.
+h12,1209,It's twelve oh nine P.M.
+h12,1210,It's twelve ten P.M.
+h12,1211,It's twelve eleven P.M.
+h12,1212,It's twelve twelve P.M.
+h12,1213,It's twelve thirteen P.M.
+h12,1214,It's twelve fourteen P.M.
+h12,1215,It's twelve fifteen P.M.
+h12,1216,It's twelve sixteen P.M.
+h12,1217,It's twelve seventeen P.M.
+h12,1218,It's twelve eighteen P.M.
+h12,1219,It's twelve nineteen P.M.
+h12,1220,It's twelve twenty P.M.
+h12,1221,It's twelve twenty-one P.M.
+h12,1222,It's twelve twenty-two P.M.
+h12,1223,It's twelve twenty-three P.M.
+h12,1224,It's twelve twenty-four P.M.
+h12,1225,It's twelve twenty-five P.M.
+h12,1226,It's twelve twenty-six P.M.
+h12,1227,It's twelve twenty-seven P.M.
+h12,1228,It's twelve twenty-eight P.M.
+h12,1229,It's twelve twenty-nine P.M.
+h12,1230,It's twelve thirty P.M.
+h12,1231,It's twelve thirty-one P.M.
+h12,1232,It's twelve thirty-two P.M.
+h12,1233,It's twelve thirty-three P.M.
+h12,1234,It's twelve thirty-four P.M.
+h12,1235,It's twelve thirty-five P.M.
+h12,1236,It's twelve thirty-six P.M.
+h12,1237,It's twelve thirty-seven P.M.
+h12,1238,It's twelve thirty-eight P.M.
+h12,1239,It's twelve thirty-nine P.M.
+h12,1240,It's twelve forty P.M.
+h12,1241,It's twelve forty-one P.M.
+h12,1242,It's twelve forty-two P.M.
+h12,1243,It's twelve forty-three P.M.
+h12,1244,It's twelve forty-four P.M.
+h12,1245,It's twelve forty-five P.M.
+h12,1246,It's twelve forty-six P.M.
+h12,1247,It's twelve forty-seven P.M.
+h12,1248,It's twelve forty-eight P.M.
+h12,1249,It's twelve forty-nine P.M.
+h12,1250,It's twelve fifty P.M.
+h12,1251,It's twelve fifty-one P.M.
+h12,1252,It's twelve fifty-two P.M.
+h12,1253,It's twelve fifty-three P.M.
+h12,1254,It's twelve fifty-four P.M.
+h12,1255,It's twelve fifty-five P.M.
+h12,1256,It's twelve fifty-six P.M.
+h12,1257,It's twelve fifty-seven P.M.
+h12,1258,It's twelve fifty-eight P.M.
+h12,1259,It's twelve fifty-nine P.M.
+h12,1300,It's one o'clock P.M.
+h12,1301,It's one oh one P.M.
+h12,1302,It's one oh two P.M.
+h12,1303,It's one oh three P.M.
+h12,1304,It's one oh four P.M.
+h12,1305,It's one oh five P.M.
+h12,1306,It's one oh six P.M.
+h12,1307,It's one oh seven P.M.
+h12,1308,It's one oh eight P.M.
+h12,1309,It's one oh nine P.M.
+h12,1310,It's one ten P.M.
+h12,1311,It's one eleven P.M.
+h12,1312,It's one twelve P.M.
+h12,1313,It's one thirteen P.M.
+h12,1314,It's one fourteen P.M.
+h12,1315,It's one fifteen P.M.
+h12,1316,It's one sixteen P.M.
+h12,1317,It's one seventeen P.M.
+h12,1318,It's one eighteen P.M.
+h12,1319,It's one nineteen P.M.
+h12,1320,It's one twenty P.M.
+h12,1321,It's one twenty-one P.M.
+h12,1322,It's one twenty-two P.M.
+h12,1323,It's one twenty-three P.M.
+h12,1324,It's one twenty-four P.M.
+h12,1325,It's one twenty-five P.M.
+h12,1326,It's one twenty-six P.M.
+h12,1327,It's one twenty-seven P.M.
+h12,1328,It's one twenty-eight P.M.
+h12,1329,It's one twenty-nine P.M.
+h12,1330,It's one thirty P.M.
+h12,1331,It's one thirty-one P.M.
+h12,1332,It's one thirty-two P.M.
+h12,1333,It's one thirty-three P.M.
+h12,1334,It's one thirty-four P.M.
+h12,1335,It's one thirty-five P.M.
+h12,1336,It's one thirty-six P.M.
+h12,1337,It's one thirty-seven P.M.
+h12,1338,It's one thirty-eight P.M.
+h12,1339,It's one thirty-nine P.M.
+h12,1340,It's one forty P.M.
+h12,1341,It's one forty-one P.M.
+h12,1342,It's one forty-two P.M.
+h12,1343,It's one forty-three P.M.
+h12,1344,It's one forty-four P.M.
+h12,1345,It's one forty-five P.M.
+h12,1346,It's one forty-six P.M.
+h12,1347,It's one forty-seven P.M.
+h12,1348,It's one forty-eight P.M.
+h12,1349,It's one forty-nine P.M.
+h12,1350,It's one fifty P.M.
+h12,1351,It's one fifty-one P.M.
+h12,1352,It's one fifty-two P.M.
+h12,1353,It's one fifty-three P.M.
+h12,1354,It's one fifty-four P.M.
+h12,1355,It's one fifty-five P.M.
+h12,1356,It's one fifty-six P.M.
+h12,1357,It's one fifty-seven P.M.
+h12,1358,It's one fifty-eight P.M.
+h12,1359,It's one fifty-nine P.M.
+h12,1400,It's two o'clock P.M.
+h12,1401,It's two oh one P.M.
+h12,1402,It's two oh two P.M.
+h12,1403,It's two oh three P.M.
+h12,1404,It's two oh four P.M.
+h12,1405,It's two oh five P.M.
+h12,1406,It's two oh six P.M.
+h12,1407,It's two oh seven P.M.
+h12,1408,It's two oh eight P.M.
+h12,1409,It's two oh nine P.M.
+h12,1410,It's two ten P.M.
+h12,1411,It's two eleven P.M.
+h12,1412,It's two twelve P.M.
+h12,1413,It's two thirteen P.M.
+h12,1414,It's two fourteen P.M.
+h12,1415,It's two fifteen P.M.
+h12,1416,It's two sixteen P.M.
+h12,1417,It's two seventeen P.M.
+h12,1418,It's two eighteen P.M.
+h12,1419,It's two nineteen P.M.
+h12,1420,It's two twenty P.M.
+h12,1421,It's two twenty-one P.M.
+h12,1422,It's two twenty-two P.M.
+h12,1423,It's two twenty-three P.M.
+h12,1424,It's two twenty-four P.M.
+h12,1425,It's two twenty-five P.M.
+h12,1426,It's two twenty-six P.M.
+h12,1427,It's two twenty-seven P.M.
+h12,1428,It's two twenty-eight P.M.
+h12,1429,It's two twenty-nine P.M.
+h12,1430,It's two thirty P.M.
+h12,1431,It's two thirty-one P.M.
+h12,1432,It's two thirty-two P.M.
+h12,1433,It's two thirty-three P.M.
+h12,1434,It's two thirty-four P.M.
+h12,1435,It's two thirty-five P.M.
+h12,1436,It's two thirty-six P.M.
+h12,1437,It's two thirty-seven P.M.
+h12,1438,It's two thirty-eight P.M.
+h12,1439,It's two thirty-nine P.M.
+h12,1440,It's two forty P.M.
+h12,1441,It's two forty-one P.M.
+h12,1442,It's two forty-two P.M.
+h12,1443,It's two forty-three P.M.
+h12,1444,It's two forty-four P.M.
+h12,1445,It's two forty-five P.M.
+h12,1446,It's two forty-six P.M.
+h12,1447,It's two forty-seven P.M.
+h12,1448,It's two forty-eight P.M.
+h12,1449,It's two forty-nine P.M.
+h12,1450,It's two fifty P.M.
+h12,1451,It's two fifty-one P.M.
+h12,1452,It's two fifty-two P.M.
+h12,1453,It's two fifty-three P.M.
+h12,1454,It's two fifty-four P.M.
+h12,1455,It's two fifty-five P.M.
+h12,1456,It's two fifty-six P.M.
+h12,1457,It's two fifty-seven P.M.
+h12,1458,It's two fifty-eight P.M.
+h12,1459,It's two fifty-nine P.M.
+h12,1500,It's three o'clock P.M.
+h12,1501,It's three oh one P.M.
+h12,1502,It's three oh two P.M.
+h12,1503,It's three oh three P.M.
+h12,1504,It's three oh four P.M.
+h12,1505,It's three oh five P.M.
+h12,1506,It's three oh six P.M.
+h12,1507,It's three oh seven P.M.
+h12,1508,It's three oh eight P.M.
+h12,1509,It's three oh nine P.M.
+h12,1510,It's three ten P.M.
+h12,1511,It's three eleven P.M.
+h12,1512,It's three twelve P.M.
+h12,1513,It's three thirteen P.M.
+h12,1514,It's three fourteen P.M.
+h12,1515,It's three fifteen P.M.
+h12,1516,It's three sixteen P.M.
+h12,1517,It's three seventeen P.M.
+h12,1518,It's three eighteen P.M.
+h12,1519,It's three nineteen P.M.
+h12,1520,It's three twenty P.M.
+h12,1521,It's three twenty-one P.M.
+h12,1522,It's three twenty-two P.M.
+h12,1523,It's three twenty-three P.M.
+h12,1524,It's three twenty-four P.M.
+h12,1525,It's three twenty-five P.M.
+h12,1526,It's three twenty-six P.M.
+h12,1527,It's three twenty-seven P.M.
+h12,1528,It's three twenty-eight P.M.
+h12,1529,It's three twenty-nine P.M.
+h12,1530,It's three thirty P.M.
+h12,1531,It's three thirty-one P.M.
+h12,1532,It's three thirty-two P.M.
+h12,1533,It's three thirty-three P.M.
+h12,1534,It's three thirty-four P.M.
+h12,1535,It's three thirty-five P.M.
+h12,1536,It's three thirty-six P.M.
+h12,1537,It's three thirty-seven P.M.
+h12,1538,It's three thirty-eight P.M.
+h12,1539,It's three thirty-nine P.M.
+h12,1540,It's three forty P.M.
+h12,1541,It's three forty-one P.M.
+h12,1542,It's three forty-two P.M.
+h12,1543,It's three forty-three P.M.
+h12,1544,It's three forty-four P.M.
+h12,1545,It's three forty-five P.M.
+h12,1546,It's three forty-six P.M.
+h12,1547,It's three forty-seven P.M.
+h12,1548,It's three forty-eight P.M.
+h12,1549,It's three forty-nine P.M.
+h12,1550,It's three fifty P.M.
+h12,1551,It's three fifty-one P.M.
+h12,1552,It's three fifty-two P.M.
+h12,1553,It's three fifty-three P.M.
+h12,1554,It's three fifty-four P.M.
+h12,1555,It's three fifty-five P.M.
+h12,1556,It's three fifty-six P.M.
+h12,1557,It's three fifty-seven P.M.
+h12,1558,It's three fifty-eight P.M.
+h12,1559,It's three fifty-nine P.M.
+h12,1600,It's four o'clock P.M.
+h12,1601,It's four oh one P.M.
+h12,1602,It's four oh two P.M.
+h12,1603,It's four oh three P.M.
+h12,1604,It's four oh four P.M.
+h12,1605,It's four oh five P.M.
+h12,1606,It's four oh six P.M.
+h12,1607,It's four oh seven P.M.
+h12,1608,It's four oh eight P.M.
+h12,1609,It's four oh nine P.M.
+h12,1610,It's four ten P.M.
+h12,1611,It's four eleven P.M.
+h12,1612,It's four twelve P.M.
+h12,1613,It's four thirteen P.M.
+h12,1614,It's four fourteen P.M.
+h12,1615,It's four fifteen P.M.
+h12,1616,It's four sixteen P.M.
+h12,1617,It's four seventeen P.M.
+h12,1618,It's four eighteen P.M.
+h12,1619,It's four nineteen P.M.
+h12,1620,It's four twenty P.M.
+h12,1621,It's four twenty-one P.M.
+h12,1622,It's four twenty-two P.M.
+h12,1623,It's four twenty-three P.M.
+h12,1624,It's four twenty-four P.M.
+h12,1625,It's four twenty-five P.M.
+h12,1626,It's four twenty-six P.M.
+h12,1627,It's four twenty-seven P.M.
+h12,1628,It's four twenty-eight P.M.
+h12,1629,It's four twenty-nine P.M.
+h12,1630,It's four thirty P.M.
+h12,1631,It's four thirty-one P.M.
+h12,1632,It's four thirty-two P.M.
+h12,1633,It's four thirty-three P.M.
+h12,1634,It's four thirty-four P.M.
+h12,1635,It's four thirty-five P.M.
+h12,1636,It's four thirty-six P.M.
+h12,1637,It's four thirty-seven P.M.
+h12,1638,It's four thirty-eight P.M.
+h12,1639,It's four thirty-nine P.M.
+h12,1640,It's four forty P.M.
+h12,1641,It's four forty-one P.M.
+h12,1642,It's four forty-two P.M.
+h12,1643,It's four forty-three P.M.
+h12,1644,It's four forty-four P.M.
+h12,1645,It's four forty-five P.M.
+h12,1646,It's four forty-six P.M.
+h12,1647,It's four forty-seven P.M.
+h12,1648,It's four forty-eight P.M.
+h12,1649,It's four forty-nine P.M.
+h12,1650,It's four fifty P.M.
+h12,1651,It's four fifty-one P.M.
+h12,1652,It's four fifty-two P.M.
+h12,1653,It's four fifty-three P.M.
+h12,1654,It's four fifty-four P.M.
+h12,1655,It's four fifty-five P.M.
+h12,1656,It's four fifty-six P.M.
+h12,1657,It's four fifty-seven P.M.
+h12,1658,It's four fifty-eight P.M.
+h12,1659,It's four fifty-nine P.M.
+h12,1700,It's five o'clock P.M.
+h12,1701,It's five oh one P.M.
+h12,1702,It's five oh two P.M.
+h12,1703,It's five oh three P.M.
+h12,1704,It's five oh four P.M.
+h12,1705,It's five oh five P.M.
+h12,1706,It's five oh six P.M.
+h12,1707,It's five oh seven P.M.
+h12,1708,It's five oh eight P.M.
+h12,1709,It's five oh nine P.M.
+h12,1710,It's five ten P.M.
+h12,1711,It's five eleven P.M.
+h12,1712,It's five twelve P.M.
+h12,1713,It's five thirteen P.M.
+h12,1714,It's five fourteen P.M.
+h12,1715,It's five fifteen P.M.
+h12,1716,It's five sixteen P.M.
+h12,1717,It's five seventeen P.M.
+h12,1718,It's five eighteen P.M.
+h12,1719,It's five nineteen P.M.
+h12,1720,It's five twenty P.M.
+h12,1721,It's five twenty-one P.M.
+h12,1722,It's five twenty-two P.M.
+h12,1723,It's five twenty-three P.M.
+h12,1724,It's five twenty-four P.M.
+h12,1725,It's five twenty-five P.M.
+h12,1726,It's five twenty-six P.M.
+h12,1727,It's five twenty-seven P.M.
+h12,1728,It's five twenty-eight P.M.
+h12,1729,It's five twenty-nine P.M.
+h12,1730,It's five thirty P.M.
+h12,1731,It's five thirty-one P.M.
+h12,1732,It's five thirty-two P.M.
+h12,1733,It's five thirty-three P.M.
+h12,1734,It's five thirty-four P.M.
+h12,1735,It's five thirty-five P.M.
+h12,1736,It's five thirty-six P.M.
+h12,1737,It's five thirty-seven P.M.
+h12,1738,It's five thirty-eight P.M.
+h12,1739,It's five thirty-nine P.M.
+h12,1740,It's five forty P.M.
+h12,1741,It's five forty-one P.M.
+h12,1742,It's five forty-two P.M.
+h12,1743,It's five forty-three P.M.
+h12,1744,It's five forty-four P.M.
+h12,1745,It's five forty-five P.M.
+h12,1746,It's five forty-six P.M.
+h12,1747,It's five forty-seven P.M.
+h12,1748,It's five forty-eight P.M.
+h12,1749,It's five forty-nine P.M.
+h12,1750,It's five fifty P.M.
+h12,1751,It's five fifty-one P.M.
+h12,1752,It's five fifty-two P.M.
+h12,1753,It's five fifty-three P.M.
+h12,1754,It's five fifty-four P.M.
+h12,1755,It's five fifty-five P.M.
+h12,1756,It's five fifty-six P.M.
+h12,1757,It's five fifty-seven P.M.
+h12,1758,It's five fifty-eight P.M.
+h12,1759,It's five fifty-nine P.M.
+h12,1800,It's six o'clock P.M.
+h12,1801,It's six oh one P.M.
+h12,1802,It's six oh two P.M.
+h12,1803,It's six oh three P.M.
+h12,1804,It's six oh four P.M.
+h12,1805,It's six oh five P.M.
+h12,1806,It's six oh six P.M.
+h12,1807,It's six oh seven P.M.
+h12,1808,It's six oh eight P.M.
+h12,1809,It's six oh nine P.M.
+h12,1810,It's six ten P.M.
+h12,1811,It's six eleven P.M.
+h12,1812,It's six twelve P.M.
+h12,1813,It's six thirteen P.M.
+h12,1814,It's six fourteen P.M.
+h12,1815,It's six fifteen P.M.
+h12,1816,It's six sixteen P.M.
+h12,1817,It's six seventeen P.M.
+h12,1818,It's six eighteen P.M.
+h12,1819,It's six nineteen P.M.
+h12,1820,It's six twenty P.M.
+h12,1821,It's six twenty-one P.M.
+h12,1822,It's six twenty-two P.M.
+h12,1823,It's six twenty-three P.M.
+h12,1824,It's six twenty-four P.M.
+h12,1825,It's six twenty-five P.M.
+h12,1826,It's six twenty-six P.M.
+h12,1827,It's six twenty-seven P.M.
+h12,1828,It's six twenty-eight P.M.
+h12,1829,It's six twenty-nine P.M.
+h12,1830,It's six thirty P.M.
+h12,1831,It's six thirty-one P.M.
+h12,1832,It's six thirty-two P.M.
+h12,1833,It's six thirty-three P.M.
+h12,1834,It's six thirty-four P.M.
+h12,1835,It's six thirty-five P.M.
+h12,1836,It's six thirty-six P.M.
+h12,1837,It's six thirty-seven P.M.
+h12,1838,It's six thirty-eight P.M.
+h12,1839,It's six thirty-nine P.M.
+h12,1840,It's six forty P.M.
+h12,1841,It's six forty-one P.M.
+h12,1842,It's six forty-two P.M.
+h12,1843,It's six forty-three P.M.
+h12,1844,It's six forty-four P.M.
+h12,1845,It's six forty-five P.M.
+h12,1846,It's six forty-six P.M.
+h12,1847,It's six forty-seven P.M.
+h12,1848,It's six forty-eight P.M.
+h12,1849,It's six forty-nine P.M.
+h12,1850,It's six fifty P.M.
+h12,1851,It's six fifty-one P.M.
+h12,1852,It's six fifty-two P.M.
+h12,1853,It's six fifty-three P.M.
+h12,1854,It's six fifty-four P.M.
+h12,1855,It's six fifty-five P.M.
+h12,1856,It's six fifty-six P.M.
+h12,1857,It's six fifty-seven P.M.
+h12,1858,It's six fifty-eight P.M.
+h12,1859,It's six fifty-nine P.M.
+h12,1900,It's seven o'clock P.M.
+h12,1901,It's seven oh one P.M.
+h12,1902,It's seven oh two P.M.
+h12,1903,It's seven oh three P.M.
+h12,1904,It's seven oh four P.M.
+h12,1905,It's seven oh five P.M.
+h12,1906,It's seven oh six P.M.
+h12,1907,It's seven oh seven P.M.
+h12,1908,It's seven oh eight P.M.
+h12,1909,It's seven oh nine P.M.
+h12,1910,It's seven ten P.M.
+h12,1911,It's seven eleven P.M.
+h12,1912,It's seven twelve P.M.
+h12,1913,It's seven thirteen P.M.
+h12,1914,It's seven fourteen P.M.
+h12,1915,It's seven fifteen P.M.
+h12,1916,It's seven sixteen P.M.
+h12,1917,It's seven seventeen P.M.
+h12,1918,It's seven eighteen P.M.
+h12,1919,It's seven nineteen P.M.
+h12,1920,It's seven twenty P.M.
+h12,1921,It's seven twenty-one P.M.
+h12,1922,It's seven twenty-two P.M.
+h12,1923,It's seven twenty-three P.M.
+h12,1924,It's seven twenty-four P.M.
+h12,1925,It's seven twenty-five P.M.
+h12,1926,It's seven twenty-six P.M.
+h12,1927,It's seven twenty-seven P.M.
+h12,1928,It's seven twenty-eight P.M.
+h12,1929,It's seven twenty-nine P.M.
+h12,1930,It's seven thirty P.M.
+h12,1931,It's seven thirty-one P.M.
+h12,1932,It's seven thirty-two P.M.
+h12,1933,It's seven thirty-three P.M.
+h12,1934,It's seven thirty-four P.M.
+h12,1935,It's seven thirty-five P.M.
+h12,1936,It's seven thirty-six P.M.
+h12,1937,It's seven thirty-seven P.M.
+h12,1938,It's seven thirty-eight P.M.
+h12,1939,It's seven thirty-nine P.M.
+h12,1940,It's seven forty P.M.
+h12,1941,It's seven forty-one P.M.
+h12,1942,It's seven forty-two P.M.
+h12,1943,It's seven forty-three P.M.
+h12,1944,It's seven forty-four P.M.
+h12,1945,It's seven forty-five P.M.
+h12,1946,It's seven forty-six P.M.
+h12,1947,It's seven forty-seven P.M.
+h12,1948,It's seven forty-eight P.M.
+h12,1949,It's seven forty-nine P.M.
+h12,1950,It's seven fifty P.M.
+h12,1951,It's seven fifty-one P.M.
+h12,1952,It's seven fifty-two P.M.
+h12,1953,It's seven fifty-three P.M.
+h12,1954,It's seven fifty-four P.M.
+h12,1955,It's seven fifty-five P.M.
+h12,1956,It's seven fifty-six P.M.
+h12,1957,It's seven fifty-seven P.M.
+h12,1958,It's seven fifty-eight P.M.
+h12,1959,It's seven fifty-nine P.M.
+h12,2000,It's eight o'clock P.M.
+h12,2001,It's eight oh one P.M.
+h12,2002,It's eight oh two P.M.
+h12,2003,It's eight oh three P.M.
+h12,2004,It's eight oh four P.M.
+h12,2005,It's eight oh five P.M.
+h12,2006,It's eight oh six P.M.
+h12,2007,It's eight oh seven P.M.
+h12,2008,It's eight oh eight P.M.
+h12,2009,It's eight oh nine P.M.
+h12,2010,It's eight ten P.M.
+h12,2011,It's eight eleven P.M.
+h12,2012,It's eight twelve P.M.
+h12,2013,It's eight thirteen P.M.
+h12,2014,It's eight fourteen P.M.
+h12,2015,It's eight fifteen P.M.
+h12,2016,It's eight sixteen P.M.
+h12,2017,It's eight seventeen P.M.
+h12,2018,It's eight eighteen P.M.
+h12,2019,It's eight nineteen P.M.
+h12,2020,It's eight twenty P.M.
+h12,2021,It's eight twenty-one P.M.
+h12,2022,It's eight twenty-two P.M.
+h12,2023,It's eight twenty-three P.M.
+h12,2024,It's eight twenty-four P.M.
+h12,2025,It's eight twenty-five P.M.
+h12,2026,It's eight twenty-six P.M.
+h12,2027,It's eight twenty-seven P.M.
+h12,2028,It's eight twenty-eight P.M.
+h12,2029,It's eight twenty-nine P.M.
+h12,2030,It's eight thirty P.M.
+h12,2031,It's eight thirty-one P.M.
+h12,2032,It's eight thirty-two P.M.
+h12,2033,It's eight thirty-three P.M.
+h12,2034,It's eight thirty-four P.M.
+h12,2035,It's eight thirty-five P.M.
+h12,2036,It's eight thirty-six P.M.
+h12,2037,It's eight thirty-seven P.M.
+h12,2038,It's eight thirty-eight P.M.
+h12,2039,It's eight thirty-nine P.M.
+h12,2040,It's eight forty P.M.
+h12,2041,It's eight forty-one P.M.
+h12,2042,It's eight forty-two P.M.
+h12,2043,It's eight forty-three P.M.
+h12,2044,It's eight forty-four P.M.
+h12,2045,It's eight forty-five P.M.
+h12,2046,It's eight forty-six P.M.
+h12,2047,It's eight forty-seven P.M.
+h12,2048,It's eight forty-eight P.M.
+h12,2049,It's eight forty-nine P.M.
+h12,2050,It's eight fifty P.M.
+h12,2051,It's eight fifty-one P.M.
+h12,2052,It's eight fifty-two P.M.
+h12,2053,It's eight fifty-three P.M.
+h12,2054,It's eight fifty-four P.M.
+h12,2055,It's eight fifty-five P.M.
+h12,2056,It's eight fifty-six P.M.
+h12,2057,It's eight fifty-seven P.M.
+h12,2058,It's eight fifty-eight P.M.
+h12,2059,It's eight fifty-nine P.M.
+h12,2100,It's nine o'clock P.M.
+h12,2101,It's nine oh one P.M.
+h12,2102,It's nine oh two P.M.
+h12,2103,It's nine oh three P.M.
+h12,2104,It's nine oh four P.M.
+h12,2105,It's nine oh five P.M.
+h12,2106,It's nine oh six P.M.
+h12,2107,It's nine oh seven P.M.
+h12,2108,It's nine oh eight P.M.
+h12,2109,It's nine oh nine P.M.
+h12,2110,It's nine ten P.M.
+h12,2111,It's nine eleven P.M.
+h12,2112,It's nine twelve P.M.
+h12,2113,It's nine thirteen P.M.
+h12,2114,It's nine fourteen P.M.
+h12,2115,It's nine fifteen P.M.
+h12,2116,It's nine sixteen P.M.
+h12,2117,It's nine seventeen P.M.
+h12,2118,It's nine eighteen P.M.
+h12,2119,It's nine nineteen P.M.
+h12,2120,It's nine twenty P.M.
+h12,2121,It's nine twenty-one P.M.
+h12,2122,It's nine twenty-two P.M.
+h12,2123,It's nine twenty-three P.M.
+h12,2124,It's nine twenty-four P.M.
+h12,2125,It's nine twenty-five P.M.
+h12,2126,It's nine twenty-six P.M.
+h12,2127,It's nine twenty-seven P.M.
+h12,2128,It's nine twenty-eight P.M.
+h12,2129,It's nine twenty-nine P.M.
+h12,2130,It's nine thirty P.M.
+h12,2131,It's nine thirty-one P.M.
+h12,2132,It's nine thirty-two P.M.
+h12,2133,It's nine thirty-three P.M.
+h12,2134,It's nine thirty-four P.M.
+h12,2135,It's nine thirty-five P.M.
+h12,2136,It's nine thirty-six P.M.
+h12,2137,It's nine thirty-seven P.M.
+h12,2138,It's nine thirty-eight P.M.
+h12,2139,It's nine thirty-nine P.M.
+h12,2140,It's nine forty P.M.
+h12,2141,It's nine forty-one P.M.
+h12,2142,It's nine forty-two P.M.
+h12,2143,It's nine forty-three P.M.
+h12,2144,It's nine forty-four P.M.
+h12,2145,It's nine forty-five P.M.
+h12,2146,It's nine forty-six P.M.
+h12,2147,It's nine forty-seven P.M.
+h12,2148,It's nine forty-eight P.M.
+h12,2149,It's nine forty-nine P.M.
+h12,2150,It's nine fifty P.M.
+h12,2151,It's nine fifty-one P.M.
+h12,2152,It's nine fifty-two P.M.
+h12,2153,It's nine fifty-three P.M.
+h12,2154,It's nine fifty-four P.M.
+h12,2155,It's nine fifty-five P.M.
+h12,2156,It's nine fifty-six P.M.
+h12,2157,It's nine fifty-seven P.M.
+h12,2158,It's nine fifty-eight P.M.
+h12,2159,It's nine fifty-nine P.M.
+h12,2200,It's ten o'clock P.M.
+h12,2201,It's ten oh one P.M.
+h12,2202,It's ten oh two P.M.
+h12,2203,It's ten oh three P.M.
+h12,2204,It's ten oh four P.M.
+h12,2205,It's ten oh five P.M.
+h12,2206,It's ten oh six P.M.
+h12,2207,It's ten oh seven P.M.
+h12,2208,It's ten oh eight P.M.
+h12,2209,It's ten oh nine P.M.
+h12,2210,It's ten ten P.M.
+h12,2211,It's ten eleven P.M.
+h12,2212,It's ten twelve P.M.
+h12,2213,It's ten thirteen P.M.
+h12,2214,It's ten fourteen P.M.
+h12,2215,It's ten fifteen P.M.
+h12,2216,It's ten sixteen P.M.
+h12,2217,It's ten seventeen P.M.
+h12,2218,It's ten eighteen P.M.
+h12,2219,It's ten nineteen P.M.
+h12,2220,It's ten twenty P.M.
+h12,2221,It's ten twenty-one P.M.
+h12,2222,It's ten twenty-two P.M.
+h12,2223,It's ten twenty-three P.M.
+h12,2224,It's ten twenty-four P.M.
+h12,2225,It's ten twenty-five P.M.
+h12,2226,It's ten twenty-six P.M.
+h12,2227,It's ten twenty-seven P.M.
+h12,2228,It's ten twenty-eight P.M.
+h12,2229,It's ten twenty-nine P.M.
+h12,2230,It's ten thirty P.M.
+h12,2231,It's ten thirty-one P.M.
+h12,2232,It's ten thirty-two P.M.
+h12,2233,It's ten thirty-three P.M.
+h12,2234,It's ten thirty-four P.M.
+h12,2235,It's ten thirty-five P.M.
+h12,2236,It's ten thirty-six P.M.
+h12,2237,It's ten thirty-seven P.M.
+h12,2238,It's ten thirty-eight P.M.
+h12,2239,It's ten thirty-nine P.M.
+h12,2240,It's ten forty P.M.
+h12,2241,It's ten forty-one P.M.
+h12,2242,It's ten forty-two P.M.
+h12,2243,It's ten forty-three P.M.
+h12,2244,It's ten forty-four P.M.
+h12,2245,It's ten forty-five P.M.
+h12,2246,It's ten forty-six P.M.
+h12,2247,It's ten forty-seven P.M.
+h12,2248,It's ten forty-eight P.M.
+h12,2249,It's ten forty-nine P.M.
+h12,2250,It's ten fifty P.M.
+h12,2251,It's ten fifty-one P.M.
+h12,2252,It's ten fifty-two P.M.
+h12,2253,It's ten fifty-three P.M.
+h12,2254,It's ten fifty-four P.M.
+h12,2255,It's ten fifty-five P.M.
+h12,2256,It's ten fifty-six P.M.
+h12,2257,It's ten fifty-seven P.M.
+h12,2258,It's ten fifty-eight P.M.
+h12,2259,It's ten fifty-nine P.M.
+h12,2300,It's eleven o'clock P.M.
+h12,2301,It's eleven oh one P.M.
+h12,2302,It's eleven oh two P.M.
+h12,2303,It's eleven oh three P.M.
+h12,2304,It's eleven oh four P.M.
+h12,2305,It's eleven oh five P.M.
+h12,2306,It's eleven oh six P.M.
+h12,2307,It's eleven oh seven P.M.
+h12,2308,It's eleven oh eight P.M.
+h12,2309,It's eleven oh nine P.M.
+h12,2310,It's eleven ten P.M.
+h12,2311,It's eleven eleven P.M.
+h12,2312,It's eleven twelve P.M.
+h12,2313,It's eleven thirteen P.M.
+h12,2314,It's eleven fourteen P.M.
+h12,2315,It's eleven fifteen P.M.
+h12,2316,It's eleven sixteen P.M.
+h12,2317,It's eleven seventeen P.M.
+h12,2318,It's eleven eighteen P.M.
+h12,2319,It's eleven nineteen P.M.
+h12,2320,It's eleven twenty P.M.
+h12,2321,It's eleven twenty-one P.M.
+h12,2322,It's eleven twenty-two P.M.
+h12,2323,It's eleven twenty-three P.M.
+h12,2324,It's eleven twenty-four P.M.
+h12,2325,It's eleven twenty-five P.M.
+h12,2326,It's eleven twenty-six P.M.
+h12,2327,It's eleven twenty-seven P.M.
+h12,2328,It's eleven twenty-eight P.M.
+h12,2329,It's eleven twenty-nine P.M.
+h12,2330,It's eleven thirty P.M.
+h12,2331,It's eleven thirty-one P.M.
+h12,2332,It's eleven thirty-two P.M.
+h12,2333,It's eleven thirty-three P.M.
+h12,2334,It's eleven thirty-four P.M.
+h12,2335,It's eleven thirty-five P.M.
+h12,2336,It's eleven thirty-six P.M.
+h12,2337,It's eleven thirty-seven P.M.
+h12,2338,It's eleven thirty-eight P.M.
+h12,2339,It's eleven thirty-nine P.M.
+h12,2340,It's eleven forty P.M.
+h12,2341,It's eleven forty-one P.M.
+h12,2342,It's eleven forty-two P.M.
+h12,2343,It's eleven forty-three P.M.
+h12,2344,It's eleven forty-four P.M.
+h12,2345,It's eleven forty-five P.M.
+h12,2346,It's eleven forty-six P.M.
+h12,2347,It's eleven forty-seven P.M.
+h12,2348,It's eleven forty-eight P.M.
+h12,2349,It's eleven forty-nine P.M.
+h12,2350,It's eleven fifty P.M.
+h12,2351,It's eleven fifty-one P.M.
+h12,2352,It's eleven fifty-two P.M.
+h12,2353,It's eleven fifty-three P.M.
+h12,2354,It's eleven fifty-four P.M.
+h12,2355,It's eleven fifty-five P.M.
+h12,2356,It's eleven fifty-six P.M.
+h12,2357,It's eleven fifty-seven P.M.
+h12,2358,It's eleven fifty-eight P.M.
+h12,2359,It's eleven fifty-nine P.M.
+h24,0000,It's midnight.
+h24,0001,It's zero oh one.
+h24,0002,It's zero oh two.
+h24,0003,It's zero oh three.
+h24,0004,It's zero oh four.
+h24,0005,It's zero oh five.
+h24,0006,It's zero oh six.
+h24,0007,It's zero oh seven.
+h24,0008,It's zero oh eight.
+h24,0009,It's zero oh nine.
+h24,0010,It's zero ten.
+h24,0011,It's zero eleven.
+h24,0012,It's zero twelve.
+h24,0013,It's zero thirteen.
+h24,0014,It's zero fourteen.
+h24,0015,It's zero fifteen.
+h24,0016,It's zero sixteen.
+h24,0017,It's zero seventeen.
+h24,0018,It's zero eighteen.
+h24,0019,It's zero nineteen.
+h24,0020,It's zero twenty.
+h24,0021,It's zero twenty-one.
+h24,0022,It's zero twenty-two.
+h24,0023,It's zero twenty-three.
+h24,0024,It's zero twenty-four.
+h24,0025,It's zero twenty-five.
+h24,0026,It's zero twenty-six.
+h24,0027,It's zero twenty-seven.
+h24,0028,It's zero twenty-eight.
+h24,0029,It's zero twenty-nine.
+h24,0030,It's zero thirty.
+h24,0031,It's zero thirty-one.
+h24,0032,It's zero thirty-two.
+h24,0033,It's zero thirty-three.
+h24,0034,It's zero thirty-four.
+h24,0035,It's zero thirty-five.
+h24,0036,It's zero thirty-six.
+h24,0037,It's zero thirty-seven.
+h24,0038,It's zero thirty-eight.
+h24,0039,It's zero thirty-nine.
+h24,0040,It's zero forty.
+h24,0041,It's zero forty-one.
+h24,0042,It's zero forty-two.
+h24,0043,It's zero forty-three.
+h24,0044,It's zero forty-four.
+h24,0045,It's zero forty-five.
+h24,0046,It's zero forty-six.
+h24,0047,It's zero forty-seven.
+h24,0048,It's zero forty-eight.
+h24,0049,It's zero forty-nine.
+h24,0050,It's zero fifty.
+h24,0051,It's zero fifty-one.
+h24,0052,It's zero fifty-two.
+h24,0053,It's zero fifty-three.
+h24,0054,It's zero fifty-four.
+h24,0055,It's zero fifty-five.
+h24,0056,It's zero fifty-six.
+h24,0057,It's zero fifty-seven.
+h24,0058,It's zero fifty-eight.
+h24,0059,It's zero fifty-nine.
+h24,0100,It's oh one hundred.
+h24,0101,It's oh one oh one.
+h24,0102,It's oh one oh two.
+h24,0103,It's oh one oh three.
+h24,0104,It's oh one oh four.
+h24,0105,It's oh one oh five.
+h24,0106,It's oh one oh six.
+h24,0107,It's oh one oh seven.
+h24,0108,It's oh one oh eight.
+h24,0109,It's oh one oh nine.
+h24,0110,It's oh one ten.
+h24,0111,It's oh one eleven.
+h24,0112,It's oh one twelve.
+h24,0113,It's oh one thirteen.
+h24,0114,It's oh one fourteen.
+h24,0115,It's oh one fifteen.
+h24,0116,It's oh one sixteen.
+h24,0117,It's oh one seventeen.
+h24,0118,It's oh one eighteen.
+h24,0119,It's oh one nineteen.
+h24,0120,It's oh one twenty.
+h24,0121,It's oh one twenty-one.
+h24,0122,It's oh one twenty-two.
+h24,0123,It's oh one twenty-three.
+h24,0124,It's oh one twenty-four.
+h24,0125,It's oh one twenty-five.
+h24,0126,It's oh one twenty-six.
+h24,0127,It's oh one twenty-seven.
+h24,0128,It's oh one twenty-eight.
+h24,0129,It's oh one twenty-nine.
+h24,0130,It's oh one thirty.
+h24,0131,It's oh one thirty-one.
+h24,0132,It's oh one thirty-two.
+h24,0133,It's oh one thirty-three.
+h24,0134,It's oh one thirty-four.
+h24,0135,It's oh one thirty-five.
+h24,0136,It's oh one thirty-six.
+h24,0137,It's oh one thirty-seven.
+h24,0138,It's oh one thirty-eight.
+h24,0139,It's oh one thirty-nine.
+h24,0140,It's oh one forty.
+h24,0141,It's oh one forty-one.
+h24,0142,It's oh one forty-two.
+h24,0143,It's oh one forty-three.
+h24,0144,It's oh one forty-four.
+h24,0145,It's oh one forty-five.
+h24,0146,It's oh one forty-six.
+h24,0147,It's oh one forty-seven.
+h24,0148,It's oh one forty-eight.
+h24,0149,It's oh one forty-nine.
+h24,0150,It's oh one fifty.
+h24,0151,It's oh one fifty-one.
+h24,0152,It's oh one fifty-two.
+h24,0153,It's oh one fifty-three.
+h24,0154,It's oh one fifty-four.
+h24,0155,It's oh one fifty-five.
+h24,0156,It's oh one fifty-six.
+h24,0157,It's oh one fifty-seven.
+h24,0158,It's oh one fifty-eight.
+h24,0159,It's oh one fifty-nine.
+h24,0200,It's oh two hundred.
+h24,0201,It's oh two oh one.
+h24,0202,It's oh two oh two.
+h24,0203,It's oh two oh three.
+h24,0204,It's oh two oh four.
+h24,0205,It's oh two oh five.
+h24,0206,It's oh two oh six.
+h24,0207,It's oh two oh seven.
+h24,0208,It's oh two oh eight.
+h24,0209,It's oh two oh nine.
+h24,0210,It's oh two ten.
+h24,0211,It's oh two eleven.
+h24,0212,It's oh two twelve.
+h24,0213,It's oh two thirteen.
+h24,0214,It's oh two fourteen.
+h24,0215,It's oh two fifteen.
+h24,0216,It's oh two sixteen.
+h24,0217,It's oh two seventeen.
+h24,0218,It's oh two eighteen.
+h24,0219,It's oh two nineteen.
+h24,0220,It's oh two twenty.
+h24,0221,It's oh two twenty-one.
+h24,0222,It's oh two twenty-two.
+h24,0223,It's oh two twenty-three.
+h24,0224,It's oh two twenty-four.
+h24,0225,It's oh two twenty-five.
+h24,0226,It's oh two twenty-six.
+h24,0227,It's oh two twenty-seven.
+h24,0228,It's oh two twenty-eight.
+h24,0229,It's oh two twenty-nine.
+h24,0230,It's oh two thirty.
+h24,0231,It's oh two thirty-one.
+h24,0232,It's oh two thirty-two.
+h24,0233,It's oh two thirty-three.
+h24,0234,It's oh two thirty-four.
+h24,0235,It's oh two thirty-five.
+h24,0236,It's oh two thirty-six.
+h24,0237,It's oh two thirty-seven.
+h24,0238,It's oh two thirty-eight.
+h24,0239,It's oh two thirty-nine.
+h24,0240,It's oh two forty.
+h24,0241,It's oh two forty-one.
+h24,0242,It's oh two forty-two.
+h24,0243,It's oh two forty-three.
+h24,0244,It's oh two forty-four.
+h24,0245,It's oh two forty-five.
+h24,0246,It's oh two forty-six.
+h24,0247,It's oh two forty-seven.
+h24,0248,It's oh two forty-eight.
+h24,0249,It's oh two forty-nine.
+h24,0250,It's oh two fifty.
+h24,0251,It's oh two fifty-one.
+h24,0252,It's oh two fifty-two.
+h24,0253,It's oh two fifty-three.
+h24,0254,It's oh two fifty-four.
+h24,0255,It's oh two fifty-five.
+h24,0256,It's oh two fifty-six.
+h24,0257,It's oh two fifty-seven.
+h24,0258,It's oh two fifty-eight.
+h24,0259,It's oh two fifty-nine.
+h24,0300,It's oh three hundred.
+h24,0301,It's oh three oh one.
+h24,0302,It's oh three oh two.
+h24,0303,It's oh three oh three.
+h24,0304,It's oh three oh four.
+h24,0305,It's oh three oh five.
+h24,0306,It's oh three oh six.
+h24,0307,It's oh three oh seven.
+h24,0308,It's oh three oh eight.
+h24,0309,It's oh three oh nine.
+h24,0310,It's oh three ten.
+h24,0311,It's oh three eleven.
+h24,0312,It's oh three twelve.
+h24,0313,It's oh three thirteen.
+h24,0314,It's oh three fourteen.
+h24,0315,It's oh three fifteen.
+h24,0316,It's oh three sixteen.
+h24,0317,It's oh three seventeen.
+h24,0318,It's oh three eighteen.
+h24,0319,It's oh three nineteen.
+h24,0320,It's oh three twenty.
+h24,0321,It's oh three twenty-one.
+h24,0322,It's oh three twenty-two.
+h24,0323,It's oh three twenty-three.
+h24,0324,It's oh three twenty-four.
+h24,0325,It's oh three twenty-five.
+h24,0326,It's oh three twenty-six.
+h24,0327,It's oh three twenty-seven.
+h24,0328,It's oh three twenty-eight.
+h24,0329,It's oh three twenty-nine.
+h24,0330,It's oh three thirty.
+h24,0331,It's oh three thirty-one.
+h24,0332,It's oh three thirty-two.
+h24,0333,It's oh three thirty-three.
+h24,0334,It's oh three thirty-four.
+h24,0335,It's oh three thirty-five.
+h24,0336,It's oh three thirty-six.
+h24,0337,It's oh three thirty-seven.
+h24,0338,It's oh three thirty-eight.
+h24,0339,It's oh three thirty-nine.
+h24,0340,It's oh three forty.
+h24,0341,It's oh three forty-one.
+h24,0342,It's oh three forty-two.
+h24,0343,It's oh three forty-three.
+h24,0344,It's oh three forty-four.
+h24,0345,It's oh three forty-five.
+h24,0346,It's oh three forty-six.
+h24,0347,It's oh three forty-seven.
+h24,0348,It's oh three forty-eight.
+h24,0349,It's oh three forty-nine.
+h24,0350,It's oh three fifty.
+h24,0351,It's oh three fifty-one.
+h24,0352,It's oh three fifty-two.
+h24,0353,It's oh three fifty-three.
+h24,0354,It's oh three fifty-four.
+h24,0355,It's oh three fifty-five.
+h24,0356,It's oh three fifty-six.
+h24,0357,It's oh three fifty-seven.
+h24,0358,It's oh three fifty-eight.
+h24,0359,It's oh three fifty-nine.
+h24,0400,It's oh four hundred.
+h24,0401,It's oh four oh one.
+h24,0402,It's oh four oh two.
+h24,0403,It's oh four oh three.
+h24,0404,It's oh four oh four.
+h24,0405,It's oh four oh five.
+h24,0406,It's oh four oh six.
+h24,0407,It's oh four oh seven.
+h24,0408,It's oh four oh eight.
+h24,0409,It's oh four oh nine.
+h24,0410,It's oh four ten.
+h24,0411,It's oh four eleven.
+h24,0412,It's oh four twelve.
+h24,0413,It's oh four thirteen.
+h24,0414,It's oh four fourteen.
+h24,0415,It's oh four fifteen.
+h24,0416,It's oh four sixteen.
+h24,0417,It's oh four seventeen.
+h24,0418,It's oh four eighteen.
+h24,0419,It's oh four nineteen.
+h24,0420,It's oh four twenty.
+h24,0421,It's oh four twenty-one.
+h24,0422,It's oh four twenty-two.
+h24,0423,It's oh four twenty-three.
+h24,0424,It's oh four twenty-four.
+h24,0425,It's oh four twenty-five.
+h24,0426,It's oh four twenty-six.
+h24,0427,It's oh four twenty-seven.
+h24,0428,It's oh four twenty-eight.
+h24,0429,It's oh four twenty-nine.
+h24,0430,It's oh four thirty.
+h24,0431,It's oh four thirty-one.
+h24,0432,It's oh four thirty-two.
+h24,0433,It's oh four thirty-three.
+h24,0434,It's oh four thirty-four.
+h24,0435,It's oh four thirty-five.
+h24,0436,It's oh four thirty-six.
+h24,0437,It's oh four thirty-seven.
+h24,0438,It's oh four thirty-eight.
+h24,0439,It's oh four thirty-nine.
+h24,0440,It's oh four forty.
+h24,0441,It's oh four forty-one.
+h24,0442,It's oh four forty-two.
+h24,0443,It's oh four forty-three.
+h24,0444,It's oh four forty-four.
+h24,0445,It's oh four forty-five.
+h24,0446,It's oh four forty-six.
+h24,0447,It's oh four forty-seven.
+h24,0448,It's oh four forty-eight.
+h24,0449,It's oh four forty-nine.
+h24,0450,It's oh four fifty.
+h24,0451,It's oh four fifty-one.
+h24,0452,It's oh four fifty-two.
+h24,0453,It's oh four fifty-three.
+h24,0454,It's oh four fifty-four.
+h24,0455,It's oh four fifty-five.
+h24,0456,It's oh four fifty-six.
+h24,0457,It's oh four fifty-seven.
+h24,0458,It's oh four fifty-eight.
+h24,0459,It's oh four fifty-nine.
+h24,0500,It's oh five hundred.
+h24,0501,It's oh five oh one.
+h24,0502,It's oh five oh two.
+h24,0503,It's oh five oh three.
+h24,0504,It's oh five oh four.
+h24,0505,It's oh five oh five.
+h24,0506,It's oh five oh six.
+h24,0507,It's oh five oh seven.
+h24,0508,It's oh five oh eight.
+h24,0509,It's oh five oh nine.
+h24,0510,It's oh five ten.
+h24,0511,It's oh five eleven.
+h24,0512,It's oh five twelve.
+h24,0513,It's oh five thirteen.
+h24,0514,It's oh five fourteen.
+h24,0515,It's oh five fifteen.
+h24,0516,It's oh five sixteen.
+h24,0517,It's oh five seventeen.
+h24,0518,It's oh five eighteen.
+h24,0519,It's oh five nineteen.
+h24,0520,It's oh five twenty.
+h24,0521,It's oh five twenty-one.
+h24,0522,It's oh five twenty-two.
+h24,0523,It's oh five twenty-three.
+h24,0524,It's oh five twenty-four.
+h24,0525,It's oh five twenty-five.
+h24,0526,It's oh five twenty-six.
+h24,0527,It's oh five twenty-seven.
+h24,0528,It's oh five twenty-eight.
+h24,0529,It's oh five twenty-nine.
+h24,0530,It's oh five thirty.
+h24,0531,It's oh five thirty-one.
+h24,0532,It's oh five thirty-two.
+h24,0533,It's oh five thirty-three.
+h24,0534,It's oh five thirty-four.
+h24,0535,It's oh five thirty-five.
+h24,0536,It's oh five thirty-six.
+h24,0537,It's oh five thirty-seven.
+h24,0538,It's oh five thirty-eight.
+h24,0539,It's oh five thirty-nine.
+h24,0540,It's oh five forty.
+h24,0541,It's oh five forty-one.
+h24,0542,It's oh five forty-two.
+h24,0543,It's oh five forty-three.
+h24,0544,It's oh five forty-four.
+h24,0545,It's oh five forty-five.
+h24,0546,It's oh five forty-six.
+h24,0547,It's oh five forty-seven.
+h24,0548,It's oh five forty-eight.
+h24,0549,It's oh five forty-nine.
+h24,0550,It's oh five fifty.
+h24,0551,It's oh five fifty-one.
+h24,0552,It's oh five fifty-two.
+h24,0553,It's oh five fifty-three.
+h24,0554,It's oh five fifty-four.
+h24,0555,It's oh five fifty-five.
+h24,0556,It's oh five fifty-six.
+h24,0557,It's oh five fifty-seven.
+h24,0558,It's oh five fifty-eight.
+h24,0559,It's oh five fifty-nine.
+h24,0600,It's oh six hundred.
+h24,0601,It's oh six oh one.
+h24,0602,It's oh six oh two.
+h24,0603,It's oh six oh three.
+h24,0604,It's oh six oh four.
+h24,0605,It's oh six oh five.
+h24,0606,It's oh six oh six.
+h24,0607,It's oh six oh seven.
+h24,0608,It's oh six oh eight.
+h24,0609,It's oh six oh nine.
+h24,0610,It's oh six ten.
+h24,0611,It's oh six eleven.
+h24,0612,It's oh six twelve.
+h24,0613,It's oh six thirteen.
+h24,0614,It's oh six fourteen.
+h24,0615,It's oh six fifteen.
+h24,0616,It's oh six sixteen.
+h24,0617,It's oh six seventeen.
+h24,0618,It's oh six eighteen.
+h24,0619,It's oh six nineteen.
+h24,0620,It's oh six twenty.
+h24,0621,It's oh six twenty-one.
+h24,0622,It's oh six twenty-two.
+h24,0623,It's oh six twenty-three.
+h24,0624,It's oh six twenty-four.
+h24,0625,It's oh six twenty-five.
+h24,0626,It's oh six twenty-six.
+h24,0627,It's oh six twenty-seven.
+h24,0628,It's oh six twenty-eight.
+h24,0629,It's oh six twenty-nine.
+h24,0630,It's oh six thirty.
+h24,0631,It's oh six thirty-one.
+h24,0632,It's oh six thirty-two.
+h24,0633,It's oh six thirty-three.
+h24,0634,It's oh six thirty-four.
+h24,0635,It's oh six thirty-five.
+h24,0636,It's oh six thirty-six.
+h24,0637,It's oh six thirty-seven.
+h24,0638,It's oh six thirty-eight.
+h24,0639,It's oh six thirty-nine.
+h24,0640,It's oh six forty.
+h24,0641,It's oh six forty-one.
+h24,0642,It's oh six forty-two.
+h24,0643,It's oh six forty-three.
+h24,0644,It's oh six forty-four.
+h24,0645,It's oh six forty-five.
+h24,0646,It's oh six forty-six.
+h24,0647,It's oh six forty-seven.
+h24,0648,It's oh six forty-eight.
+h24,0649,It's oh six forty-nine.
+h24,0650,It's oh six fifty.
+h24,0651,It's oh six fifty-one.
+h24,0652,It's oh six fifty-two.
+h24,0653,It's oh six fifty-three.
+h24,0654,It's oh six fifty-four.
+h24,0655,It's oh six fifty-five.
+h24,0656,It's oh six fifty-six.
+h24,0657,It's oh six fifty-seven.
+h24,0658,It's oh six fifty-eight.
+h24,0659,It's oh six fifty-nine.
+h24,0700,It's oh seven hundred.
+h24,0701,It's oh seven oh one.
+h24,0702,It's oh seven oh two.
+h24,0703,It's oh seven oh three.
+h24,0704,It's oh seven oh four.
+h24,0705,It's oh seven oh five.
+h24,0706,It's oh seven oh six.
+h24,0707,It's oh seven oh seven.
+h24,0708,It's oh seven oh eight.
+h24,0709,It's oh seven oh nine.
+h24,0710,It's oh seven ten.
+h24,0711,It's oh seven eleven.
+h24,0712,It's oh seven twelve.
+h24,0713,It's oh seven thirteen.
+h24,0714,It's oh seven fourteen.
+h24,0715,It's oh seven fifteen.
+h24,0716,It's oh seven sixteen.
+h24,0717,It's oh seven seventeen.
+h24,0718,It's oh seven eighteen.
+h24,0719,It's oh seven nineteen.
+h24,0720,It's oh seven twenty.
+h24,0721,It's oh seven twenty-one.
+h24,0722,It's oh seven twenty-two.
+h24,0723,It's oh seven twenty-three.
+h24,0724,It's oh seven twenty-four.
+h24,0725,It's oh seven twenty-five.
+h24,0726,It's oh seven twenty-six.
+h24,0727,It's oh seven twenty-seven.
+h24,0728,It's oh seven twenty-eight.
+h24,0729,It's oh seven twenty-nine.
+h24,0730,It's oh seven thirty.
+h24,0731,It's oh seven thirty-one.
+h24,0732,It's oh seven thirty-two.
+h24,0733,It's oh seven thirty-three.
+h24,0734,It's oh seven thirty-four.
+h24,0735,It's oh seven thirty-five.
+h24,0736,It's oh seven thirty-six.
+h24,0737,It's oh seven thirty-seven.
+h24,0738,It's oh seven thirty-eight.
+h24,0739,It's oh seven thirty-nine.
+h24,0740,It's oh seven forty.
+h24,0741,It's oh seven forty-one.
+h24,0742,It's oh seven forty-two.
+h24,0743,It's oh seven forty-three.
+h24,0744,It's oh seven forty-four.
+h24,0745,It's oh seven forty-five.
+h24,0746,It's oh seven forty-six.
+h24,0747,It's oh seven forty-seven.
+h24,0748,It's oh seven forty-eight.
+h24,0749,It's oh seven forty-nine.
+h24,0750,It's oh seven fifty.
+h24,0751,It's oh seven fifty-one.
+h24,0752,It's oh seven fifty-two.
+h24,0753,It's oh seven fifty-three.
+h24,0754,It's oh seven fifty-four.
+h24,0755,It's oh seven fifty-five.
+h24,0756,It's oh seven fifty-six.
+h24,0757,It's oh seven fifty-seven.
+h24,0758,It's oh seven fifty-eight.
+h24,0759,It's oh seven fifty-nine.
+h24,0800,It's oh eight hundred.
+h24,0801,It's oh eight oh one.
+h24,0802,It's oh eight oh two.
+h24,0803,It's oh eight oh three.
+h24,0804,It's oh eight oh four.
+h24,0805,It's oh eight oh five.
+h24,0806,It's oh eight oh six.
+h24,0807,It's oh eight oh seven.
+h24,0808,It's oh eight oh eight.
+h24,0809,It's oh eight oh nine.
+h24,0810,It's oh eight ten.
+h24,0811,It's oh eight eleven.
+h24,0812,It's oh eight twelve.
+h24,0813,It's oh eight thirteen.
+h24,0814,It's oh eight fourteen.
+h24,0815,It's oh eight fifteen.
+h24,0816,It's oh eight sixteen.
+h24,0817,It's oh eight seventeen.
+h24,0818,It's oh eight eighteen.
+h24,0819,It's oh eight nineteen.
+h24,0820,It's oh eight twenty.
+h24,0821,It's oh eight twenty-one.
+h24,0822,It's oh eight twenty-two.
+h24,0823,It's oh eight twenty-three.
+h24,0824,It's oh eight twenty-four.
+h24,0825,It's oh eight twenty-five.
+h24,0826,It's oh eight twenty-six.
+h24,0827,It's oh eight twenty-seven.
+h24,0828,It's oh eight twenty-eight.
+h24,0829,It's oh eight twenty-nine.
+h24,0830,It's oh eight thirty.
+h24,0831,It's oh eight thirty-one.
+h24,0832,It's oh eight thirty-two.
+h24,0833,It's oh eight thirty-three.
+h24,0834,It's oh eight thirty-four.
+h24,0835,It's oh eight thirty-five.
+h24,0836,It's oh eight thirty-six.
+h24,0837,It's oh eight thirty-seven.
+h24,0838,It's oh eight thirty-eight.
+h24,0839,It's oh eight thirty-nine.
+h24,0840,It's oh eight forty.
+h24,0841,It's oh eight forty-one.
+h24,0842,It's oh eight forty-two.
+h24,0843,It's oh eight forty-three.
+h24,0844,It's oh eight forty-four.
+h24,0845,It's oh eight forty-five.
+h24,0846,It's oh eight forty-six.
+h24,0847,It's oh eight forty-seven.
+h24,0848,It's oh eight forty-eight.
+h24,0849,It's oh eight forty-nine.
+h24,0850,It's oh eight fifty.
+h24,0851,It's oh eight fifty-one.
+h24,0852,It's oh eight fifty-two.
+h24,0853,It's oh eight fifty-three.
+h24,0854,It's oh eight fifty-four.
+h24,0855,It's oh eight fifty-five.
+h24,0856,It's oh eight fifty-six.
+h24,0857,It's oh eight fifty-seven.
+h24,0858,It's oh eight fifty-eight.
+h24,0859,It's oh eight fifty-nine.
+h24,0900,It's oh nine hundred.
+h24,0901,It's oh nine oh one.
+h24,0902,It's oh nine oh two.
+h24,0903,It's oh nine oh three.
+h24,0904,It's oh nine oh four.
+h24,0905,It's oh nine oh five.
+h24,0906,It's oh nine oh six.
+h24,0907,It's oh nine oh seven.
+h24,0908,It's oh nine oh eight.
+h24,0909,It's oh nine oh nine.
+h24,0910,It's oh nine ten.
+h24,0911,It's oh nine eleven.
+h24,0912,It's oh nine twelve.
+h24,0913,It's oh nine thirteen.
+h24,0914,It's oh nine fourteen.
+h24,0915,It's oh nine fifteen.
+h24,0916,It's oh nine sixteen.
+h24,0917,It's oh nine seventeen.
+h24,0918,It's oh nine eighteen.
+h24,0919,It's oh nine nineteen.
+h24,0920,It's oh nine twenty.
+h24,0921,It's oh nine twenty-one.
+h24,0922,It's oh nine twenty-two.
+h24,0923,It's oh nine twenty-three.
+h24,0924,It's oh nine twenty-four.
+h24,0925,It's oh nine twenty-five.
+h24,0926,It's oh nine twenty-six.
+h24,0927,It's oh nine twenty-seven.
+h24,0928,It's oh nine twenty-eight.
+h24,0929,It's oh nine twenty-nine.
+h24,0930,It's oh nine thirty.
+h24,0931,It's oh nine thirty-one.
+h24,0932,It's oh nine thirty-two.
+h24,0933,It's oh nine thirty-three.
+h24,0934,It's oh nine thirty-four.
+h24,0935,It's oh nine thirty-five.
+h24,0936,It's oh nine thirty-six.
+h24,0937,It's oh nine thirty-seven.
+h24,0938,It's oh nine thirty-eight.
+h24,0939,It's oh nine thirty-nine.
+h24,0940,It's oh nine forty.
+h24,0941,It's oh nine forty-one.
+h24,0942,It's oh nine forty-two.
+h24,0943,It's oh nine forty-three.
+h24,0944,It's oh nine forty-four.
+h24,0945,It's oh nine forty-five.
+h24,0946,It's oh nine forty-six.
+h24,0947,It's oh nine forty-seven.
+h24,0948,It's oh nine forty-eight.
+h24,0949,It's oh nine forty-nine.
+h24,0950,It's oh nine fifty.
+h24,0951,It's oh nine fifty-one.
+h24,0952,It's oh nine fifty-two.
+h24,0953,It's oh nine fifty-three.
+h24,0954,It's oh nine fifty-four.
+h24,0955,It's oh nine fifty-five.
+h24,0956,It's oh nine fifty-six.
+h24,0957,It's oh nine fifty-seven.
+h24,0958,It's oh nine fifty-eight.
+h24,0959,It's oh nine fifty-nine.
+h24,1000,It's ten hundred.
+h24,1001,It's ten oh one.
+h24,1002,It's ten oh two.
+h24,1003,It's ten oh three.
+h24,1004,It's ten oh four.
+h24,1005,It's ten oh five.
+h24,1006,It's ten oh six.
+h24,1007,It's ten oh seven.
+h24,1008,It's ten oh eight.
+h24,1009,It's ten oh nine.
+h24,1010,It's ten ten.
+h24,1011,It's ten eleven.
+h24,1012,It's ten twelve.
+h24,1013,It's ten thirteen.
+h24,1014,It's ten fourteen.
+h24,1015,It's ten fifteen.
+h24,1016,It's ten sixteen.
+h24,1017,It's ten seventeen.
+h24,1018,It's ten eighteen.
+h24,1019,It's ten nineteen.
+h24,1020,It's ten twenty.
+h24,1021,It's ten twenty-one.
+h24,1022,It's ten twenty-two.
+h24,1023,It's ten twenty-three.
+h24,1024,It's ten twenty-four.
+h24,1025,It's ten twenty-five.
+h24,1026,It's ten twenty-six.
+h24,1027,It's ten twenty-seven.
+h24,1028,It's ten twenty-eight.
+h24,1029,It's ten twenty-nine.
+h24,1030,It's ten thirty.
+h24,1031,It's ten thirty-one.
+h24,1032,It's ten thirty-two.
+h24,1033,It's ten thirty-three.
+h24,1034,It's ten thirty-four.
+h24,1035,It's ten thirty-five.
+h24,1036,It's ten thirty-six.
+h24,1037,It's ten thirty-seven.
+h24,1038,It's ten thirty-eight.
+h24,1039,It's ten thirty-nine.
+h24,1040,It's ten forty.
+h24,1041,It's ten forty-one.
+h24,1042,It's ten forty-two.
+h24,1043,It's ten forty-three.
+h24,1044,It's ten forty-four.
+h24,1045,It's ten forty-five.
+h24,1046,It's ten forty-six.
+h24,1047,It's ten forty-seven.
+h24,1048,It's ten forty-eight.
+h24,1049,It's ten forty-nine.
+h24,1050,It's ten fifty.
+h24,1051,It's ten fifty-one.
+h24,1052,It's ten fifty-two.
+h24,1053,It's ten fifty-three.
+h24,1054,It's ten fifty-four.
+h24,1055,It's ten fifty-five.
+h24,1056,It's ten fifty-six.
+h24,1057,It's ten fifty-seven.
+h24,1058,It's ten fifty-eight.
+h24,1059,It's ten fifty-nine.
+h24,1100,It's eleven hundred.
+h24,1101,It's eleven oh one.
+h24,1102,It's eleven oh two.
+h24,1103,It's eleven oh three.
+h24,1104,It's eleven oh four.
+h24,1105,It's eleven oh five.
+h24,1106,It's eleven oh six.
+h24,1107,It's eleven oh seven.
+h24,1108,It's eleven oh eight.
+h24,1109,It's eleven oh nine.
+h24,1110,It's eleven ten.
+h24,1111,It's eleven eleven.
+h24,1112,It's eleven twelve.
+h24,1113,It's eleven thirteen.
+h24,1114,It's eleven fourteen.
+h24,1115,It's eleven fifteen.
+h24,1116,It's eleven sixteen.
+h24,1117,It's eleven seventeen.
+h24,1118,It's eleven eighteen.
+h24,1119,It's eleven nineteen.
+h24,1120,It's eleven twenty.
+h24,1121,It's eleven twenty-one.
+h24,1122,It's eleven twenty-two.
+h24,1123,It's eleven twenty-three.
+h24,1124,It's eleven twenty-four.
+h24,1125,It's eleven twenty-five.
+h24,1126,It's eleven twenty-six.
+h24,1127,It's eleven twenty-seven.
+h24,1128,It's eleven twenty-eight.
+h24,1129,It's eleven twenty-nine.
+h24,1130,It's eleven thirty.
+h24,1131,It's eleven thirty-one.
+h24,1132,It's eleven thirty-two.
+h24,1133,It's eleven thirty-three.
+h24,1134,It's eleven thirty-four.
+h24,1135,It's eleven thirty-five.
+h24,1136,It's eleven thirty-six.
+h24,1137,It's eleven thirty-seven.
+h24,1138,It's eleven thirty-eight.
+h24,1139,It's eleven thirty-nine.
+h24,1140,It's eleven forty.
+h24,1141,It's eleven forty-one.
+h24,1142,It's eleven forty-two.
+h24,1143,It's eleven forty-three.
+h24,1144,It's eleven forty-four.
+h24,1145,It's eleven forty-five.
+h24,1146,It's eleven forty-six.
+h24,1147,It's eleven forty-seven.
+h24,1148,It's eleven forty-eight.
+h24,1149,It's eleven forty-nine.
+h24,1150,It's eleven fifty.
+h24,1151,It's eleven fifty-one.
+h24,1152,It's eleven fifty-two.
+h24,1153,It's eleven fifty-three.
+h24,1154,It's eleven fifty-four.
+h24,1155,It's eleven fifty-five.
+h24,1156,It's eleven fifty-six.
+h24,1157,It's eleven fifty-seven.
+h24,1158,It's eleven fifty-eight.
+h24,1159,It's eleven fifty-nine.
+h24,1200,It's twelve hundred.
+h24,1201,It's twelve oh one.
+h24,1202,It's twelve oh two.
+h24,1203,It's twelve oh three.
+h24,1204,It's twelve oh four.
+h24,1205,It's twelve oh five.
+h24,1206,It's twelve oh six.
+h24,1207,It's twelve oh seven.
+h24,1208,It's twelve oh eight.
+h24,1209,It's twelve oh nine.
+h24,1210,It's twelve ten.
+h24,1211,It's twelve eleven.
+h24,1212,It's twelve twelve.
+h24,1213,It's twelve thirteen.
+h24,1214,It's twelve fourteen.
+h24,1215,It's twelve fifteen.
+h24,1216,It's twelve sixteen.
+h24,1217,It's twelve seventeen.
+h24,1218,It's twelve eighteen.
+h24,1219,It's twelve nineteen.
+h24,1220,It's twelve twenty.
+h24,1221,It's twelve twenty-one.
+h24,1222,It's twelve twenty-two.
+h24,1223,It's twelve twenty-three.
+h24,1224,It's twelve twenty-four.
+h24,1225,It's twelve twenty-five.
+h24,1226,It's twelve twenty-six.
+h24,1227,It's twelve twenty-seven.
+h24,1228,It's twelve twenty-eight.
+h24,1229,It's twelve twenty-nine.
+h24,1230,It's twelve thirty.
+h24,1231,It's twelve thirty-one.
+h24,1232,It's twelve thirty-two.
+h24,1233,It's twelve thirty-three.
+h24,1234,It's twelve thirty-four.
+h24,1235,It's twelve thirty-five.
+h24,1236,It's twelve thirty-six.
+h24,1237,It's twelve thirty-seven.
+h24,1238,It's twelve thirty-eight.
+h24,1239,It's twelve thirty-nine.
+h24,1240,It's twelve forty.
+h24,1241,It's twelve forty-one.
+h24,1242,It's twelve forty-two.
+h24,1243,It's twelve forty-three.
+h24,1244,It's twelve forty-four.
+h24,1245,It's twelve forty-five.
+h24,1246,It's twelve forty-six.
+h24,1247,It's twelve forty-seven.
+h24,1248,It's twelve forty-eight.
+h24,1249,It's twelve forty-nine.
+h24,1250,It's twelve fifty.
+h24,1251,It's twelve fifty-one.
+h24,1252,It's twelve fifty-two.
+h24,1253,It's twelve fifty-three.
+h24,1254,It's twelve fifty-four.
+h24,1255,It's twelve fifty-five.
+h24,1256,It's twelve fifty-six.
+h24,1257,It's twelve fifty-seven.
+h24,1258,It's twelve fifty-eight.
+h24,1259,It's twelve fifty-nine.
+h24,1300,It's thirteen hundred.
+h24,1301,It's thirteen oh one.
+h24,1302,It's thirteen oh two.
+h24,1303,It's thirteen oh three.
+h24,1304,It's thirteen oh four.
+h24,1305,It's thirteen oh five.
+h24,1306,It's thirteen oh six.
+h24,1307,It's thirteen oh seven.
+h24,1308,It's thirteen oh eight.
+h24,1309,It's thirteen oh nine.
+h24,1310,It's thirteen ten.
+h24,1311,It's thirteen eleven.
+h24,1312,It's thirteen twelve.
+h24,1313,It's thirteen thirteen.
+h24,1314,It's thirteen fourteen.
+h24,1315,It's thirteen fifteen.
+h24,1316,It's thirteen sixteen.
+h24,1317,It's thirteen seventeen.
+h24,1318,It's thirteen eighteen.
+h24,1319,It's thirteen nineteen.
+h24,1320,It's thirteen twenty.
+h24,1321,It's thirteen twenty-one.
+h24,1322,It's thirteen twenty-two.
+h24,1323,It's thirteen twenty-three.
+h24,1324,It's thirteen twenty-four.
+h24,1325,It's thirteen twenty-five.
+h24,1326,It's thirteen twenty-six.
+h24,1327,It's thirteen twenty-seven.
+h24,1328,It's thirteen twenty-eight.
+h24,1329,It's thirteen twenty-nine.
+h24,1330,It's thirteen thirty.
+h24,1331,It's thirteen thirty-one.
+h24,1332,It's thirteen thirty-two.
+h24,1333,It's thirteen thirty-three.
+h24,1334,It's thirteen thirty-four.
+h24,1335,It's thirteen thirty-five.
+h24,1336,It's thirteen thirty-six.
+h24,1337,It's thirteen thirty-seven.
+h24,1338,It's thirteen thirty-eight.
+h24,1339,It's thirteen thirty-nine.
+h24,1340,It's thirteen forty.
+h24,1341,It's thirteen forty-one.
+h24,1342,It's thirteen forty-two.
+h24,1343,It's thirteen forty-three.
+h24,1344,It's thirteen forty-four.
+h24,1345,It's thirteen forty-five.
+h24,1346,It's thirteen forty-six.
+h24,1347,It's thirteen forty-seven.
+h24,1348,It's thirteen forty-eight.
+h24,1349,It's thirteen forty-nine.
+h24,1350,It's thirteen fifty.
+h24,1351,It's thirteen fifty-one.
+h24,1352,It's thirteen fifty-two.
+h24,1353,It's thirteen fifty-three.
+h24,1354,It's thirteen fifty-four.
+h24,1355,It's thirteen fifty-five.
+h24,1356,It's thirteen fifty-six.
+h24,1357,It's thirteen fifty-seven.
+h24,1358,It's thirteen fifty-eight.
+h24,1359,It's thirteen fifty-nine.
+h24,1400,It's fourteen hundred.
+h24,1401,It's fourteen oh one.
+h24,1402,It's fourteen oh two.
+h24,1403,It's fourteen oh three.
+h24,1404,It's fourteen oh four.
+h24,1405,It's fourteen oh five.
+h24,1406,It's fourteen oh six.
+h24,1407,It's fourteen oh seven.
+h24,1408,It's fourteen oh eight.
+h24,1409,It's fourteen oh nine.
+h24,1410,It's fourteen ten.
+h24,1411,It's fourteen eleven.
+h24,1412,It's fourteen twelve.
+h24,1413,It's fourteen thirteen.
+h24,1414,It's fourteen fourteen.
+h24,1415,It's fourteen fifteen.
+h24,1416,It's fourteen sixteen.
+h24,1417,It's fourteen seventeen.
+h24,1418,It's fourteen eighteen.
+h24,1419,It's fourteen nineteen.
+h24,1420,It's fourteen twenty.
+h24,1421,It's fourteen twenty-one.
+h24,1422,It's fourteen twenty-two.
+h24,1423,It's fourteen twenty-three.
+h24,1424,It's fourteen twenty-four.
+h24,1425,It's fourteen twenty-five.
+h24,1426,It's fourteen twenty-six.
+h24,1427,It's fourteen twenty-seven.
+h24,1428,It's fourteen twenty-eight.
+h24,1429,It's fourteen twenty-nine.
+h24,1430,It's fourteen thirty.
+h24,1431,It's fourteen thirty-one.
+h24,1432,It's fourteen thirty-two.
+h24,1433,It's fourteen thirty-three.
+h24,1434,It's fourteen thirty-four.
+h24,1435,It's fourteen thirty-five.
+h24,1436,It's fourteen thirty-six.
+h24,1437,It's fourteen thirty-seven.
+h24,1438,It's fourteen thirty-eight.
+h24,1439,It's fourteen thirty-nine.
+h24,1440,It's fourteen forty.
+h24,1441,It's fourteen forty-one.
+h24,1442,It's fourteen forty-two.
+h24,1443,It's fourteen forty-three.
+h24,1444,It's fourteen forty-four.
+h24,1445,It's fourteen forty-five.
+h24,1446,It's fourteen forty-six.
+h24,1447,It's fourteen forty-seven.
+h24,1448,It's fourteen forty-eight.
+h24,1449,It's fourteen forty-nine.
+h24,1450,It's fourteen fifty.
+h24,1451,It's fourteen fifty-one.
+h24,1452,It's fourteen fifty-two.
+h24,1453,It's fourteen fifty-three.
+h24,1454,It's fourteen fifty-four.
+h24,1455,It's fourteen fifty-five.
+h24,1456,It's fourteen fifty-six.
+h24,1457,It's fourteen fifty-seven.
+h24,1458,It's fourteen fifty-eight.
+h24,1459,It's fourteen fifty-nine.
+h24,1500,It's fifteen hundred.
+h24,1501,It's fifteen oh one.
+h24,1502,It's fifteen oh two.
+h24,1503,It's fifteen oh three.
+h24,1504,It's fifteen oh four.
+h24,1505,It's fifteen oh five.
+h24,1506,It's fifteen oh six.
+h24,1507,It's fifteen oh seven.
+h24,1508,It's fifteen oh eight.
+h24,1509,It's fifteen oh nine.
+h24,1510,It's fifteen ten.
+h24,1511,It's fifteen eleven.
+h24,1512,It's fifteen twelve.
+h24,1513,It's fifteen thirteen.
+h24,1514,It's fifteen fourteen.
+h24,1515,It's fifteen fifteen.
+h24,1516,It's fifteen sixteen.
+h24,1517,It's fifteen seventeen.
+h24,1518,It's fifteen eighteen.
+h24,1519,It's fifteen nineteen.
+h24,1520,It's fifteen twenty.
+h24,1521,It's fifteen twenty-one.
+h24,1522,It's fifteen twenty-two.
+h24,1523,It's fifteen twenty-three.
+h24,1524,It's fifteen twenty-four.
+h24,1525,It's fifteen twenty-five.
+h24,1526,It's fifteen twenty-six.
+h24,1527,It's fifteen twenty-seven.
+h24,1528,It's fifteen twenty-eight.
+h24,1529,It's fifteen twenty-nine.
+h24,1530,It's fifteen thirty.
+h24,1531,It's fifteen thirty-one.
+h24,1532,It's fifteen thirty-two.
+h24,1533,It's fifteen thirty-three.
+h24,1534,It's fifteen thirty-four.
+h24,1535,It's fifteen thirty-five.
+h24,1536,It's fifteen thirty-six.
+h24,1537,It's fifteen thirty-seven.
+h24,1538,It's fifteen thirty-eight.
+h24,1539,It's fifteen thirty-nine.
+h24,1540,It's fifteen forty.
+h24,1541,It's fifteen forty-one.
+h24,1542,It's fifteen forty-two.
+h24,1543,It's fifteen forty-three.
+h24,1544,It's fifteen forty-four.
+h24,1545,It's fifteen forty-five.
+h24,1546,It's fifteen forty-six.
+h24,1547,It's fifteen forty-seven.
+h24,1548,It's fifteen forty-eight.
+h24,1549,It's fifteen forty-nine.
+h24,1550,It's fifteen fifty.
+h24,1551,It's fifteen fifty-one.
+h24,1552,It's fifteen fifty-two.
+h24,1553,It's fifteen fifty-three.
+h24,1554,It's fifteen fifty-four.
+h24,1555,It's fifteen fifty-five.
+h24,1556,It's fifteen fifty-six.
+h24,1557,It's fifteen fifty-seven.
+h24,1558,It's fifteen fifty-eight.
+h24,1559,It's fifteen fifty-nine.
+h24,1600,It's sixteen hundred.
+h24,1601,It's sixteen oh one.
+h24,1602,It's sixteen oh two.
+h24,1603,It's sixteen oh three.
+h24,1604,It's sixteen oh four.
+h24,1605,It's sixteen oh five.
+h24,1606,It's sixteen oh six.
+h24,1607,It's sixteen oh seven.
+h24,1608,It's sixteen oh eight.
+h24,1609,It's sixteen oh nine.
+h24,1610,It's sixteen ten.
+h24,1611,It's sixteen eleven.
+h24,1612,It's sixteen twelve.
+h24,1613,It's sixteen thirteen.
+h24,1614,It's sixteen fourteen.
+h24,1615,It's sixteen fifteen.
+h24,1616,It's sixteen sixteen.
+h24,1617,It's sixteen seventeen.
+h24,1618,It's sixteen eighteen.
+h24,1619,It's sixteen nineteen.
+h24,1620,It's sixteen twenty.
+h24,1621,It's sixteen twenty-one.
+h24,1622,It's sixteen twenty-two.
+h24,1623,It's sixteen twenty-three.
+h24,1624,It's sixteen twenty-four.
+h24,1625,It's sixteen twenty-five.
+h24,1626,It's sixteen twenty-six.
+h24,1627,It's sixteen twenty-seven.
+h24,1628,It's sixteen twenty-eight.
+h24,1629,It's sixteen twenty-nine.
+h24,1630,It's sixteen thirty.
+h24,1631,It's sixteen thirty-one.
+h24,1632,It's sixteen thirty-two.
+h24,1633,It's sixteen thirty-three.
+h24,1634,It's sixteen thirty-four.
+h24,1635,It's sixteen thirty-five.
+h24,1636,It's sixteen thirty-six.
+h24,1637,It's sixteen thirty-seven.
+h24,1638,It's sixteen thirty-eight.
+h24,1639,It's sixteen thirty-nine.
+h24,1640,It's sixteen forty.
+h24,1641,It's sixteen forty-one.
+h24,1642,It's sixteen forty-two.
+h24,1643,It's sixteen forty-three.
+h24,1644,It's sixteen forty-four.
+h24,1645,It's sixteen forty-five.
+h24,1646,It's sixteen forty-six.
+h24,1647,It's sixteen forty-seven.
+h24,1648,It's sixteen forty-eight.
+h24,1649,It's sixteen forty-nine.
+h24,1650,It's sixteen fifty.
+h24,1651,It's sixteen fifty-one.
+h24,1652,It's sixteen fifty-two.
+h24,1653,It's sixteen fifty-three.
+h24,1654,It's sixteen fifty-four.
+h24,1655,It's sixteen fifty-five.
+h24,1656,It's sixteen fifty-six.
+h24,1657,It's sixteen fifty-seven.
+h24,1658,It's sixteen fifty-eight.
+h24,1659,It's sixteen fifty-nine.
+h24,1700,It's seventeen hundred.
+h24,1701,It's seventeen oh one.
+h24,1702,It's seventeen oh two.
+h24,1703,It's seventeen oh three.
+h24,1704,It's seventeen oh four.
+h24,1705,It's seventeen oh five.
+h24,1706,It's seventeen oh six.
+h24,1707,It's seventeen oh seven.
+h24,1708,It's seventeen oh eight.
+h24,1709,It's seventeen oh nine.
+h24,1710,It's seventeen ten.
+h24,1711,It's seventeen eleven.
+h24,1712,It's seventeen twelve.
+h24,1713,It's seventeen thirteen.
+h24,1714,It's seventeen fourteen.
+h24,1715,It's seventeen fifteen.
+h24,1716,It's seventeen sixteen.
+h24,1717,It's seventeen seventeen.
+h24,1718,It's seventeen eighteen.
+h24,1719,It's seventeen nineteen.
+h24,1720,It's seventeen twenty.
+h24,1721,It's seventeen twenty-one.
+h24,1722,It's seventeen twenty-two.
+h24,1723,It's seventeen twenty-three.
+h24,1724,It's seventeen twenty-four.
+h24,1725,It's seventeen twenty-five.
+h24,1726,It's seventeen twenty-six.
+h24,1727,It's seventeen twenty-seven.
+h24,1728,It's seventeen twenty-eight.
+h24,1729,It's seventeen twenty-nine.
+h24,1730,It's seventeen thirty.
+h24,1731,It's seventeen thirty-one.
+h24,1732,It's seventeen thirty-two.
+h24,1733,It's seventeen thirty-three.
+h24,1734,It's seventeen thirty-four.
+h24,1735,It's seventeen thirty-five.
+h24,1736,It's seventeen thirty-six.
+h24,1737,It's seventeen thirty-seven.
+h24,1738,It's seventeen thirty-eight.
+h24,1739,It's seventeen thirty-nine.
+h24,1740,It's seventeen forty.
+h24,1741,It's seventeen forty-one.
+h24,1742,It's seventeen forty-two.
+h24,1743,It's seventeen forty-three.
+h24,1744,It's seventeen forty-four.
+h24,1745,It's seventeen forty-five.
+h24,1746,It's seventeen forty-six.
+h24,1747,It's seventeen forty-seven.
+h24,1748,It's seventeen forty-eight.
+h24,1749,It's seventeen forty-nine.
+h24,1750,It's seventeen fifty.
+h24,1751,It's seventeen fifty-one.
+h24,1752,It's seventeen fifty-two.
+h24,1753,It's seventeen fifty-three.
+h24,1754,It's seventeen fifty-four.
+h24,1755,It's seventeen fifty-five.
+h24,1756,It's seventeen fifty-six.
+h24,1757,It's seventeen fifty-seven.
+h24,1758,It's seventeen fifty-eight.
+h24,1759,It's seventeen fifty-nine.
+h24,1800,It's eighteen hundred.
+h24,1801,It's eighteen oh one.
+h24,1802,It's eighteen oh two.
+h24,1803,It's eighteen oh three.
+h24,1804,It's eighteen oh four.
+h24,1805,It's eighteen oh five.
+h24,1806,It's eighteen oh six.
+h24,1807,It's eighteen oh seven.
+h24,1808,It's eighteen oh eight.
+h24,1809,It's eighteen oh nine.
+h24,1810,It's eighteen ten.
+h24,1811,It's eighteen eleven.
+h24,1812,It's eighteen twelve.
+h24,1813,It's eighteen thirteen.
+h24,1814,It's eighteen fourteen.
+h24,1815,It's eighteen fifteen.
+h24,1816,It's eighteen sixteen.
+h24,1817,It's eighteen seventeen.
+h24,1818,It's eighteen eighteen.
+h24,1819,It's eighteen nineteen.
+h24,1820,It's eighteen twenty.
+h24,1821,It's eighteen twenty-one.
+h24,1822,It's eighteen twenty-two.
+h24,1823,It's eighteen twenty-three.
+h24,1824,It's eighteen twenty-four.
+h24,1825,It's eighteen twenty-five.
+h24,1826,It's eighteen twenty-six.
+h24,1827,It's eighteen twenty-seven.
+h24,1828,It's eighteen twenty-eight.
+h24,1829,It's eighteen twenty-nine.
+h24,1830,It's eighteen thirty.
+h24,1831,It's eighteen thirty-one.
+h24,1832,It's eighteen thirty-two.
+h24,1833,It's eighteen thirty-three.
+h24,1834,It's eighteen thirty-four.
+h24,1835,It's eighteen thirty-five.
+h24,1836,It's eighteen thirty-six.
+h24,1837,It's eighteen thirty-seven.
+h24,1838,It's eighteen thirty-eight.
+h24,1839,It's eighteen thirty-nine.
+h24,1840,It's eighteen forty.
+h24,1841,It's eighteen forty-one.
+h24,1842,It's eighteen forty-two.
+h24,1843,It's eighteen forty-three.
+h24,1844,It's eighteen forty-four.
+h24,1845,It's eighteen forty-five.
+h24,1846,It's eighteen forty-six.
+h24,1847,It's eighteen forty-seven.
+h24,1848,It's eighteen forty-eight.
+h24,1849,It's eighteen forty-nine.
+h24,1850,It's eighteen fifty.
+h24,1851,It's eighteen fifty-one.
+h24,1852,It's eighteen fifty-two.
+h24,1853,It's eighteen fifty-three.
+h24,1854,It's eighteen fifty-four.
+h24,1855,It's eighteen fifty-five.
+h24,1856,It's eighteen fifty-six.
+h24,1857,It's eighteen fifty-seven.
+h24,1858,It's eighteen fifty-eight.
+h24,1859,It's eighteen fifty-nine.
+h24,1900,It's nineteen hundred.
+h24,1901,It's nineteen oh one.
+h24,1902,It's nineteen oh two.
+h24,1903,It's nineteen oh three.
+h24,1904,It's nineteen oh four.
+h24,1905,It's nineteen oh five.
+h24,1906,It's nineteen oh six.
+h24,1907,It's nineteen oh seven.
+h24,1908,It's nineteen oh eight.
+h24,1909,It's nineteen oh nine.
+h24,1910,It's nineteen ten.
+h24,1911,It's nineteen eleven.
+h24,1912,It's nineteen twelve.
+h24,1913,It's nineteen thirteen.
+h24,1914,It's nineteen fourteen.
+h24,1915,It's nineteen fifteen.
+h24,1916,It's nineteen sixteen.
+h24,1917,It's nineteen seventeen.
+h24,1918,It's nineteen eighteen.
+h24,1919,It's nineteen nineteen.
+h24,1920,It's nineteen twenty.
+h24,1921,It's nineteen twenty-one.
+h24,1922,It's nineteen twenty-two.
+h24,1923,It's nineteen twenty-three.
+h24,1924,It's nineteen twenty-four.
+h24,1925,It's nineteen twenty-five.
+h24,1926,It's nineteen twenty-six.
+h24,1927,It's nineteen twenty-seven.
+h24,1928,It's nineteen twenty-eight.
+h24,1929,It's nineteen twenty-nine.
+h24,1930,It's nineteen thirty.
+h24,1931,It's nineteen thirty-one.
+h24,1932,It's nineteen thirty-two.
+h24,1933,It's nineteen thirty-three.
+h24,1934,It's nineteen thirty-four.
+h24,1935,It's nineteen thirty-five.
+h24,1936,It's nineteen thirty-six.
+h24,1937,It's nineteen thirty-seven.
+h24,1938,It's nineteen thirty-eight.
+h24,1939,It's nineteen thirty-nine.
+h24,1940,It's nineteen forty.
+h24,1941,It's nineteen forty-one.
+h24,1942,It's nineteen forty-two.
+h24,1943,It's nineteen forty-three.
+h24,1944,It's nineteen forty-four.
+h24,1945,It's nineteen forty-five.
+h24,1946,It's nineteen forty-six.
+h24,1947,It's nineteen forty-seven.
+h24,1948,It's nineteen forty-eight.
+h24,1949,It's nineteen forty-nine.
+h24,1950,It's nineteen fifty.
+h24,1951,It's nineteen fifty-one.
+h24,1952,It's nineteen fifty-two.
+h24,1953,It's nineteen fifty-three.
+h24,1954,It's nineteen fifty-four.
+h24,1955,It's nineteen fifty-five.
+h24,1956,It's nineteen fifty-six.
+h24,1957,It's nineteen fifty-seven.
+h24,1958,It's nineteen fifty-eight.
+h24,1959,It's nineteen fifty-nine.
+h24,2000,It's twenty hundred.
+h24,2001,It's twenty oh one.
+h24,2002,It's twenty oh two.
+h24,2003,It's twenty oh three.
+h24,2004,It's twenty oh four.
+h24,2005,It's twenty oh five.
+h24,2006,It's twenty oh six.
+h24,2007,It's twenty oh seven.
+h24,2008,It's twenty oh eight.
+h24,2009,It's twenty oh nine.
+h24,2010,It's twenty ten.
+h24,2011,It's twenty eleven.
+h24,2012,It's twenty twelve.
+h24,2013,It's twenty thirteen.
+h24,2014,It's twenty fourteen.
+h24,2015,It's twenty fifteen.
+h24,2016,It's twenty sixteen.
+h24,2017,It's twenty seventeen.
+h24,2018,It's twenty eighteen.
+h24,2019,It's twenty nineteen.
+h24,2020,It's twenty twenty.
+h24,2021,It's twenty twenty-one.
+h24,2022,It's twenty twenty-two.
+h24,2023,It's twenty twenty-three.
+h24,2024,It's twenty twenty-four.
+h24,2025,It's twenty twenty-five.
+h24,2026,It's twenty twenty-six.
+h24,2027,It's twenty twenty-seven.
+h24,2028,It's twenty twenty-eight.
+h24,2029,It's twenty twenty-nine.
+h24,2030,It's twenty thirty.
+h24,2031,It's twenty thirty-one.
+h24,2032,It's twenty thirty-two.
+h24,2033,It's twenty thirty-three.
+h24,2034,It's twenty thirty-four.
+h24,2035,It's twenty thirty-five.
+h24,2036,It's twenty thirty-six.
+h24,2037,It's twenty thirty-seven.
+h24,2038,It's twenty thirty-eight.
+h24,2039,It's twenty thirty-nine.
+h24,2040,It's twenty forty.
+h24,2041,It's twenty forty-one.
+h24,2042,It's twenty forty-two.
+h24,2043,It's twenty forty-three.
+h24,2044,It's twenty forty-four.
+h24,2045,It's twenty forty-five.
+h24,2046,It's twenty forty-six.
+h24,2047,It's twenty forty-seven.
+h24,2048,It's twenty forty-eight.
+h24,2049,It's twenty forty-nine.
+h24,2050,It's twenty fifty.
+h24,2051,It's twenty fifty-one.
+h24,2052,It's twenty fifty-two.
+h24,2053,It's twenty fifty-three.
+h24,2054,It's twenty fifty-four.
+h24,2055,It's twenty fifty-five.
+h24,2056,It's twenty fifty-six.
+h24,2057,It's twenty fifty-seven.
+h24,2058,It's twenty fifty-eight.
+h24,2059,It's twenty fifty-nine.
+h24,2100,It's twenty-one hundred.
+h24,2101,It's twenty-one oh one.
+h24,2102,It's twenty-one oh two.
+h24,2103,It's twenty-one oh three.
+h24,2104,It's twenty-one oh four.
+h24,2105,It's twenty-one oh five.
+h24,2106,It's twenty-one oh six.
+h24,2107,It's twenty-one oh seven.
+h24,2108,It's twenty-one oh eight.
+h24,2109,It's twenty-one oh nine.
+h24,2110,It's twenty-one ten.
+h24,2111,It's twenty-one eleven.
+h24,2112,It's twenty-one twelve.
+h24,2113,It's twenty-one thirteen.
+h24,2114,It's twenty-one fourteen.
+h24,2115,It's twenty-one fifteen.
+h24,2116,It's twenty-one sixteen.
+h24,2117,It's twenty-one seventeen.
+h24,2118,It's twenty-one eighteen.
+h24,2119,It's twenty-one nineteen.
+h24,2120,It's twenty-one twenty.
+h24,2121,It's twenty-one twenty-one.
+h24,2122,It's twenty-one twenty-two.
+h24,2123,It's twenty-one twenty-three.
+h24,2124,It's twenty-one twenty-four.
+h24,2125,It's twenty-one twenty-five.
+h24,2126,It's twenty-one twenty-six.
+h24,2127,It's twenty-one twenty-seven.
+h24,2128,It's twenty-one twenty-eight.
+h24,2129,It's twenty-one twenty-nine.
+h24,2130,It's twenty-one thirty.
+h24,2131,It's twenty-one thirty-one.
+h24,2132,It's twenty-one thirty-two.
+h24,2133,It's twenty-one thirty-three.
+h24,2134,It's twenty-one thirty-four.
+h24,2135,It's twenty-one thirty-five.
+h24,2136,It's twenty-one thirty-six.
+h24,2137,It's twenty-one thirty-seven.
+h24,2138,It's twenty-one thirty-eight.
+h24,2139,It's twenty-one thirty-nine.
+h24,2140,It's twenty-one forty.
+h24,2141,It's twenty-one forty-one.
+h24,2142,It's twenty-one forty-two.
+h24,2143,It's twenty-one forty-three.
+h24,2144,It's twenty-one forty-four.
+h24,2145,It's twenty-one forty-five.
+h24,2146,It's twenty-one forty-six.
+h24,2147,It's twenty-one forty-seven.
+h24,2148,It's twenty-one forty-eight.
+h24,2149,It's twenty-one forty-nine.
+h24,2150,It's twenty-one fifty.
+h24,2151,It's twenty-one fifty-one.
+h24,2152,It's twenty-one fifty-two.
+h24,2153,It's twenty-one fifty-three.
+h24,2154,It's twenty-one fifty-four.
+h24,2155,It's twenty-one fifty-five.
+h24,2156,It's twenty-one fifty-six.
+h24,2157,It's twenty-one fifty-seven.
+h24,2158,It's twenty-one fifty-eight.
+h24,2159,It's twenty-one fifty-nine.
+h24,2200,It's twenty-two hundred.
+h24,2201,It's twenty-two oh one.
+h24,2202,It's twenty-two oh two.
+h24,2203,It's twenty-two oh three.
+h24,2204,It's twenty-two oh four.
+h24,2205,It's twenty-two oh five.
+h24,2206,It's twenty-two oh six.
+h24,2207,It's twenty-two oh seven.
+h24,2208,It's twenty-two oh eight.
+h24,2209,It's twenty-two oh nine.
+h24,2210,It's twenty-two ten.
+h24,2211,It's twenty-two eleven.
+h24,2212,It's twenty-two twelve.
+h24,2213,It's twenty-two thirteen.
+h24,2214,It's twenty-two fourteen.
+h24,2215,It's twenty-two fifteen.
+h24,2216,It's twenty-two sixteen.
+h24,2217,It's twenty-two seventeen.
+h24,2218,It's twenty-two eighteen.
+h24,2219,It's twenty-two nineteen.
+h24,2220,It's twenty-two twenty.
+h24,2221,It's twenty-two twenty-one.
+h24,2222,It's twenty-two twenty-two.
+h24,2223,It's twenty-two twenty-three.
+h24,2224,It's twenty-two twenty-four.
+h24,2225,It's twenty-two twenty-five.
+h24,2226,It's twenty-two twenty-six.
+h24,2227,It's twenty-two twenty-seven.
+h24,2228,It's twenty-two twenty-eight.
+h24,2229,It's twenty-two twenty-nine.
+h24,2230,It's twenty-two thirty.
+h24,2231,It's twenty-two thirty-one.
+h24,2232,It's twenty-two thirty-two.
+h24,2233,It's twenty-two thirty-three.
+h24,2234,It's twenty-two thirty-four.
+h24,2235,It's twenty-two thirty-five.
+h24,2236,It's twenty-two thirty-six.
+h24,2237,It's twenty-two thirty-seven.
+h24,2238,It's twenty-two thirty-eight.
+h24,2239,It's twenty-two thirty-nine.
+h24,2240,It's twenty-two forty.
+h24,2241,It's twenty-two forty-one.
+h24,2242,It's twenty-two forty-two.
+h24,2243,It's twenty-two forty-three.
+h24,2244,It's twenty-two forty-four.
+h24,2245,It's twenty-two forty-five.
+h24,2246,It's twenty-two forty-six.
+h24,2247,It's twenty-two forty-seven.
+h24,2248,It's twenty-two forty-eight.
+h24,2249,It's twenty-two forty-nine.
+h24,2250,It's twenty-two fifty.
+h24,2251,It's twenty-two fifty-one.
+h24,2252,It's twenty-two fifty-two.
+h24,2253,It's twenty-two fifty-three.
+h24,2254,It's twenty-two fifty-four.
+h24,2255,It's twenty-two fifty-five.
+h24,2256,It's twenty-two fifty-six.
+h24,2257,It's twenty-two fifty-seven.
+h24,2258,It's twenty-two fifty-eight.
+h24,2259,It's twenty-two fifty-nine.
+h24,2300,It's twenty-three hundred.
+h24,2301,It's twenty-three oh one.
+h24,2302,It's twenty-three oh two.
+h24,2303,It's twenty-three oh three.
+h24,2304,It's twenty-three oh four.
+h24,2305,It's twenty-three oh five.
+h24,2306,It's twenty-three oh six.
+h24,2307,It's twenty-three oh seven.
+h24,2308,It's twenty-three oh eight.
+h24,2309,It's twenty-three oh nine.
+h24,2310,It's twenty-three ten.
+h24,2311,It's twenty-three eleven.
+h24,2312,It's twenty-three twelve.
+h24,2313,It's twenty-three thirteen.
+h24,2314,It's twenty-three fourteen.
+h24,2315,It's twenty-three fifteen.
+h24,2316,It's twenty-three sixteen.
+h24,2317,It's twenty-three seventeen.
+h24,2318,It's twenty-three eighteen.
+h24,2319,It's twenty-three nineteen.
+h24,2320,It's twenty-three twenty.
+h24,2321,It's twenty-three twenty-one.
+h24,2322,It's twenty-three twenty-two.
+h24,2323,It's twenty-three twenty-three.
+h24,2324,It's twenty-three twenty-four.
+h24,2325,It's twenty-three twenty-five.
+h24,2326,It's twenty-three twenty-six.
+h24,2327,It's twenty-three twenty-seven.
+h24,2328,It's twenty-three twenty-eight.
+h24,2329,It's twenty-three twenty-nine.
+h24,2330,It's twenty-three thirty.
+h24,2331,It's twenty-three thirty-one.
+h24,2332,It's twenty-three thirty-two.
+h24,2333,It's twenty-three thirty-three.
+h24,2334,It's twenty-three thirty-four.
+h24,2335,It's twenty-three thirty-five.
+h24,2336,It's twenty-three thirty-six.
+h24,2337,It's twenty-three thirty-seven.
+h24,2338,It's twenty-three thirty-eight.
+h24,2339,It's twenty-three thirty-nine.
+h24,2340,It's twenty-three forty.
+h24,2341,It's twenty-three forty-one.
+h24,2342,It's twenty-three forty-two.
+h24,2343,It's twenty-three forty-three.
+h24,2344,It's twenty-three forty-four.
+h24,2345,It's twenty-three forty-five.
+h24,2346,It's twenty-three forty-six.
+h24,2347,It's twenty-three forty-seven.
+h24,2348,It's twenty-three forty-eight.
+h24,2349,It's twenty-three forty-nine.
+h24,2350,It's twenty-three fifty.
+h24,2351,It's twenty-three fifty-one.
+h24,2352,It's twenty-three fifty-two.
+h24,2353,It's twenty-three fifty-three.
+h24,2354,It's twenty-three fifty-four.
+h24,2355,It's twenty-three fifty-five.
+h24,2356,It's twenty-three fifty-six.
+h24,2357,It's twenty-three fifty-seven.
+h24,2358,It's twenty-three fifty-eight.
+h24,2359,It's twenty-three fifty-nine.

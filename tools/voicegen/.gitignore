@@ -1,0 +1,7 @@
+# Python virtualenv
+.venv/
+__pycache__/
+# Renders, audition clips, logs (regenerable)
+out/
+# Model caches (Hugging Face, torch hub, whisper)
+.cache/

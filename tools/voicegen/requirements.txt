@@ -1,0 +1,25 @@
+# Voice-clip pipeline for Talking Clock. Python 3.12, NVIDIA GPU (CUDA 12.x driver).
+# torch 2.6.0 from PyPI is the CUDA 12.4 build; it also provides the cuBLAS/cuDNN
+# libraries faster-whisper (ctranslate2) uses. Full resolved set: requirements-lock.txt
+#
+#   uv venv --python 3.12 .venv && uv pip install --python .venv/bin/python -r requirements.txt
+
+# TTS engines
+kokoro==0.9.4                 # Apache-2.0, hexgrad/Kokoro-82M
+misaki[en]==0.9.4             # Kokoro's G2P (bundles espeak-ng via espeakng-loader)
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+chatterbox-tts==0.1.7         # MIT, ResembleAI/chatterbox (adds a Perth watermark)
+torch==2.6.0
+torchaudio==2.6.0
+transformers==5.2.0
+setuptools==80.9.0            # resemble-perth (Chatterbox watermark) still imports pkg_resources
+
+# ASR check
+faster-whisper==1.2.1
+ctranslate2==4.8.4
+
+# Audio
+numpy==1.26.4
+scipy==1.17.1
+soundfile==0.14.0
+pyloudnorm==0.2.0

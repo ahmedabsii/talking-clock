@@ -1,0 +1,13 @@
+.gradle/
+.kotlin/
+build/
+/local.properties
+.idea/
+*.iml
+captures/
+.cxx/
+*.apk
+*.aab
+
+# Generated voice clips (tools/voicegen), ~32 MB: kept out of git; regenerate with tools/voicegen
+/app/src/main/assets/voice/

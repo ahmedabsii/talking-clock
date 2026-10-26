@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Nothing is backed up or moved to a new phone: the settings take seconds to redo, and the saved
+     alarm-volume level only makes sense on the device that recorded it. -->
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="root" path="." />
+        <exclude domain="device_root" path="." />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="root" path="." />
+        <exclude domain="device_root" path="." />
+    </device-transfer>
+</data-extraction-rules>

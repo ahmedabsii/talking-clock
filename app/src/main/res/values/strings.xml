@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Talking Clock</string>
+
+    <!-- Notifications -->
+    <string name="channel_status">Status</string>
+    <string name="channel_status_desc">Shows when the next announcement is, with Pause and Turn off buttons.</string>
+    <string name="channel_alerts">Problems</string>
+    <string name="channel_alerts_desc">Tells you if announcements have stopped and how to fix it.</string>
+    <string name="status_speaking">Speaking the time…</string>
+    <string name="status_next">Next: %1$s</string>
+    <string name="status_paused_until">Paused until %1$s</string>
+    <string name="status_not_scheduled">Not scheduled. Open the app to fix this.</string>
+    <string name="action_pause_hour">Pause 1 h</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_turn_off">Turn off</string>
+    <string name="alert_stopped_title">Announcements stopped</string>
+    <string name="alert_stopped_text">Talking Clock needs “Alarms &amp; reminders” to speak on time. Tap to allow it again.</string>
+
+    <!-- Home -->
+    <string name="home_on">Announcements on</string>
+    <string name="home_off">Announcements off</string>
+    <string name="home_off_hint">Turn on to hear the time</string>
+    <string name="home_next">Next: %1$s</string>
+    <string name="home_paused">Paused until %1$s</string>
+    <string name="home_not_scheduled">Not scheduled yet</string>
+    <string name="home_pause">Pause for 1 hour</string>
+    <string name="home_resume">Resume now</string>
+    <string name="home_interval">Announce every</string>
+    <string name="home_interval_hint">Announcements follow the clock: every 15 min means :00, :15, :30 and :45.</string>
+    <string name="home_custom">Custom…</string>
+    <string name="interval_min">%1$d min</string>
+    <string name="interval_hour">%1$d h</string>
+    <string name="interval_hour_min">%1$d h %2$d min</string>
+    <string name="custom_title">Custom interval</string>
+    <string name="custom_label">Minutes</string>
+    <string name="custom_hint">Counted from midnight, so the times are the same every day.</string>
+    <string name="custom_error">Enter a number from 1 to 720.</string>
+    <string name="home_format">Time format</string>
+    <string name="format_12h">12-hour</string>
+    <string name="format_24h">24-hour</string>
+    <string name="format_12h_example">“It’s three fifteen P.M.”</string>
+    <string name="format_24h_example" tools:ignore="Typos">“It’s fifteen fifteen.”</string>
+    <string name="home_volume">Volume</string>
+    <string name="home_volume_value">%1$d%%</string>
+    <string name="home_volume_hint">Separate from your phone’s volume. It plays at this level even in silent mode.</string>
+    <string name="home_test">Test now</string>
+    <string name="home_history">History</string>
+    <string name="setup_banner_required">Setup needed: allow “Alarms &amp; reminders” so the app can speak on time.</string>
+    <string name="setup_banner_recommended">Finish setup so Android never delays an announcement.</string>
+    <string name="back">Back</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_schedule">Schedule</string>
+    <string name="settings_quiet">Quiet hours</string>
+    <string name="settings_quiet_summary">No announcements from %1$s to %2$s</string>
+    <string name="settings_quiet_off">Announce around the clock</string>
+    <string name="settings_quiet_start">Start</string>
+    <string name="settings_quiet_end">End</string>
+    <string name="settings_sound">Sound</string>
+    <string name="settings_chime">Chime first</string>
+    <string name="settings_chime_summary">A soft bell just before the time is spoken</string>
+    <string name="settings_boost">Extra loud</string>
+    <string name="settings_boost_summary">Boosts the voice beyond full volume. Can distort on small speakers.</string>
+    <string name="settings_music">When music is playing</string>
+    <string name="music_duck">Lower it</string>
+    <string name="music_pause">Pause it</string>
+    <string name="settings_reliability">Reliability</string>
+    <string name="settings_alarm_clock">Alarm-clock mode</string>
+    <string name="settings_alarm_clock_summary">The strongest delivery guarantee, for phones that still delay announcements. Shows an alarm icon all the time, and other apps see each announcement as your next alarm, which can end Do Not Disturb or bedtime schedules early.</string>
+    <string name="settings_about">About</string>
+    <string name="settings_about_text">Version %1$s. Every announcement is a recording made with open-source neural voices, so your phone’s built-in text-to-speech is never used.</string>
+
+    <!-- Setup -->
+    <string name="setup_title">Setup</string>
+    <string name="setup_intro">Android limits what apps can do in the background. These steps make sure every announcement happens on time.</string>
+    <string name="setup_exact_title">Alarms &amp; reminders</string>
+    <string name="setup_exact_desc">Lets the app wake the phone at the exact minute. Required.</string>
+    <string name="setup_notif_title">Notifications</string>
+    <string name="setup_notif_desc">Shows the next announcement, with buttons to pause or turn off.</string>
+    <string name="setup_battery_title">Battery: Unrestricted</string>
+    <string name="setup_battery_desc">Stops battery saving from delaying announcements. In App info, open Battery (or App battery usage) and choose Unrestricted.</string>
+    <string name="setup_oem_title">%1$s background settings</string>
+    <string name="setup_oem_done">I’ve done this</string>
+    <string name="setup_allow">Allow</string>
+    <string name="setup_open">Open settings</string>
+    <string name="setup_state_done">Done</string>
+    <string name="setup_state_todo">Not done</string>
+    <string name="setup_force_stop_note">Using Force stop in App info cancels announcements until you open the app again. Android applies that rule to every app.</string>
+    <string name="oem_xiaomi">1. Tap Open settings and switch Autostart on for Talking Clock.\n2. In App info › Battery saver, choose No restrictions.\n3. In Recents, long-press Talking Clock and tap the lock.</string>
+    <string name="oem_samsung">1. Settings › Battery › Background usage limits › Never sleeping apps: add Talking Clock.\n2. Make sure it isn’t listed under Sleeping or Deep sleeping apps.</string>
+    <string name="oem_huawei">1. Settings › Battery › App launch: find Talking Clock and choose Manage manually.\n2. Turn on Auto-launch, Secondary launch and Run in background.</string>
+    <string name="oem_oneplus">1. In App info › Battery, choose Allow background activity (or Don’t optimize).\n2. In Recents, lock Talking Clock.</string>
+    <string name="oem_oppo">1. In App info › Battery, turn on Allow background activity and Allow auto launch.\n2. In Recents, lock Talking Clock.</string>
+    <string name="oem_vivo">1. Tap Open settings and allow Talking Clock to auto-start.\n2. Settings › Battery › Background power consumption: allow Talking Clock.</string>
+    <string name="oem_asus">1. Tap Open settings (Mobile Manager) and allow Talking Clock under Auto-start.\n2. In App info › Battery, choose Don’t optimize.</string>
+
+    <!-- History -->
+    <string name="history_title">History</string>
+    <string name="history_empty">Nothing yet. Each announcement will show up here.</string>
+    <string name="history_summary">Last 24 hours · announced: %1$d · skipped: %2$d · problems: %3$d</string>
+    <string name="history_avg_delay">On average %1$s s after the minute began</string>
+    <string name="history_spoken">Announced %1$s</string>
+    <string name="history_skipped">Skipped %1$s</string>
+    <string name="history_delay">+%1$s s</string>
+</resources>
