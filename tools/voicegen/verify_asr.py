@@ -20,6 +20,7 @@ import argparse
 import csv
 import gc
 import itertools
+import json
 import re
 import statistics
 import subprocess
@@ -37,6 +38,7 @@ from scipy.signal import resample_poly
 
 APPROVED = HERE / "qa_approved.txt"
 LUFS_TOL = 1.0
+DURATION_TOL_S = 0.4
 MAX_ROUNDS = 3
 
 ONES = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine",
@@ -79,6 +81,8 @@ def number_readings(tok: str) -> list[str]:
         m = re.fullmatch(r"(\d{1,2})(\d{2})", tok)
     if m:
         return [f"{h} {mm}".strip() for h in hour_readings(m[1]) for mm in minute_readings(m[2])]
+    if tok == "0":                              # "0 0 5" is how Whisper writes "zero oh five"
+        return ["zero", "oh"]
     if re.fullmatch(r"\d{1,2}", tok):
         return hour_readings(tok) if len(tok) == 2 and tok.startswith("0") else [cardinal(int(tok))]
     return [tok]
@@ -169,15 +173,23 @@ def check(model, assets: Path, phrases) -> dict[str, dict]:
 
 
 def flag_durations(rows: dict[str, dict]) -> None:
-    """Mark clips whose seconds-per-syllable is far from the set's median."""
-    rates = {k: float(r["duration_s"]) / syllables(r["expected"])
-             for k, r in rows.items() if r["duration_s"]}
-    if len(rates) < 6:
+    """Mark clips whose duration is far from a linear fit on syllable count.
+
+    Clip length is a fixed overhead plus a per-syllable time, so a fit (rather than a
+    seconds-per-syllable ratio, which is unfair to short phrases) exposes babble,
+    trailing noise or a dropped word as a large residual.
+    """
+    keys = [k for k, r in rows.items() if r["duration_s"]]
+    if len(keys) < 20:
         return
-    med = statistics.median(rates.values())
-    for k, rate in rates.items():
-        if not (0.6 * med <= rate <= 1.6 * med):
-            rows[k]["note"] = (rows[k]["note"] + " duration").strip()
+    syl = np.array([syllables(rows[k]["expected"]) for k in keys], dtype=float)
+    dur = np.array([float(rows[k]["duration_s"]) for k in keys])
+    slope, icept = np.polyfit(syl, dur, 1)
+    res = dur - (icept + slope * syl)
+    limit = max(DURATION_TOL_S, 6 * statistics.median(np.abs(res - np.median(res))))
+    for k, r in zip(keys, res):
+        note = rows[k]["note"].replace("duration", "").strip()
+        rows[k]["note"] = (note + " duration").strip() if abs(r) > limit else note
 
 
 def finalize(rows: dict[str, dict], approved: set[str]) -> None:
@@ -205,7 +217,6 @@ def main() -> int:
     phrases = select(load_phrases(), args.only, args.keys)
     by_key = {p.key: p for p in phrases}
     approved = set(APPROVED.read_text().split()) if APPROVED.exists() else set()
-    attempts = {k: 0 for k in by_key}
 
     model = load_whisper(args.model)
     rows = check(model, args.assets, phrases)
@@ -222,9 +233,6 @@ def main() -> int:
         gc.collect()
         if rerender:
             run(["render.py", "--retry", "--out", str(args.wav), "--keys", *rerender])
-            for k in rerender:
-                attempts[k] += 1
-        if rerender:
             run(["postprocess.py", "--in", str(args.wav), "--out", str(args.assets),
                  "--force", "--keys", *rerender])
         if reencode:
@@ -235,6 +243,8 @@ def main() -> int:
         flag_durations(rows)
 
     finalize(rows, approved)
+    state = args.wav / "render_state.json"
+    clips = json.loads(state.read_text())["clips"] if state.exists() else {}
     fields = ["format", "hhmm", "expected", "heard", "duration_s", "lufs", "pass",
               "tp_dbtp", "attempts", "note"]
     args.report.parent.mkdir(parents=True, exist_ok=True)
@@ -242,7 +252,7 @@ def main() -> int:
         w = csv.DictWriter(f, fieldnames=fields, lineterminator="\n")
         w.writeheader()
         for k in sorted(rows):
-            w.writerow({**rows[k], "attempts": attempts[k]})
+            w.writerow({**rows[k], "attempts": clips.get(k, {}).get("attempt", 0)})
 
     vals = [float(r["lufs"]) for r in rows.values() if r["lufs"]]
     fails = [r for r in rows.values() if r["pass"] == "fail"]
