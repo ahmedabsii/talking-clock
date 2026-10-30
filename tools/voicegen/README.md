@@ -120,8 +120,11 @@ A clip passes when all three hold:
 
 - the text matches;
 - loudness is within ±1 LU of −14 LUFS and the true peak is ≤ −1 dBTP;
-- its duration per syllable is within 0.6–1.6× of the set's median, which catches
-  babble or dropped words.
+- its duration is within 0.4 s (or 6 × the median absolute deviation, if larger) of
+  a linear fit of duration on syllable count across the whole set. This catches
+  babble, trailing noise, or a dropped word the recognizer papered over. For
+  bf_emma the fit is about 0.92 s + 0.107 s per syllable, with a median deviation
+  of 0.05 s.
 
 `--fix` handles failures automatically. A text or duration failure is re-rendered
 with the next seed and a loudness failure is re-encoded with more headroom, for up
